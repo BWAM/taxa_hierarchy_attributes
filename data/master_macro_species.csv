@@ -1,0 +1,1358 @@
+MACRO_GENSPECIES,PHYLUM,CLAS,ORDR,FAMILY,SUBFAMILY,HBI_TOLERANCE,FEEDINGHAB,REFERENCE,CLASSIFIER,PREVNAMES,TOLNAME,NBI-P_TOLERANCE,NBI-N_TOLERANCE,MACRO_TSN
+Ablabesmyia annulata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,Ablabesmyia sp. 4,tolerant,,,128081
+Ablabesmyia aspera,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128083
+Ablabesmyia idei,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128090
+Ablabesmyia illinoensis,Arthropoda,INSECTA,Diptera,Chironomidae,Tanypodinae,8,prd,,Chironomidae,,tolerant,,,128092
+Ablabesmyia janta,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128093
+Ablabesmyia mallochi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128097
+Ablabesmyia monilis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,"Ablabesmyia basalis, Ablabesmyia parajanta",tolerant,,,128107
+Ablabesmyia peleensis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128113
+Ablabesmyia philosphagnos,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128115
+Ablabesmyia rhamphe,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,36,Chironomidae,,tolerant,,,128121
+Ablabesmyia simpsoni,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128123
+Ablabesmyia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,95,Chironomidae,,tolerant,,,128079
+Acentrella ampla,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,"74,119",Ephemeroptera,Baetis amplus,facultative,,,568571
+Acentrella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,83,Ephemeroptera,Pseudocloeon sp.,intolerant,5,5,100801
+Acentrella turbida,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,83,Ephemeroptera,,intolerant,,,568574
+Acentria sp.,ARTHROPODA,INSECTA,LEPIDOPTERA,Pyralidae,,5,shr,"83,66",Insects-other,,facultative,,,117741
+Acerpenna macdunnoughi,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,5,c-g,"74,120",Ephemeroptera,Baetis macdunnoughi,facultative,,,568671
+Acerpenna pygmaea,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,"74,120",Ephemeroptera,Baetis pygmaeus,intolerant,0,4,206620
+Acerpenna sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,"74,120",Ephemeroptera,,intolerant,,,568546
+Acricotopus nitidellus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,10,c-g,"124,36",Chironomidae,Acricotopus sp.,tolerant,,,128466
+Acricotopus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,10,c-g,"124,36",Chironomidae,,tolerant,,,128463
+Acroneuria abnormis,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,0,prd,"55,114",Plecoptera,,intolerant,0,0,102919
+Acroneuria arenosa,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,0,prd,"55, 114",Plecoptera,,intolerant,,,102920
+Acroneuria carolinensis,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,0,prd,"55,114",Plecoptera,,intolerant,,,102922
+Acroneuria lycorias,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,0,prd,"55,114",Plecoptera,,intolerant,,,102918
+Acroneuria sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,0,prd,"55,114",Plecoptera,,intolerant,0,0,102917
+Adicrophleps hitchcocki,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,125,Trichoptera,,intolerant,,,116957
+Adicrophleps sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,125,Trichoptera,,intolerant,,,116956
+Aeolosoma headleyi?,ANNELIDA,APHANONEURA,AEOLOSOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,68426
+Aeolosoma leidyi?,ANNELIDA,APHANONEURA,AEOLOSOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,68430
+Aeolosoma quarternarium?,ANNELIDA,APHANONEURA,AEOLOSOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,
+Aeolosoma sp.,ANNELIDA,APHANONEURA,AEOLODOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,68424
+Aeolosoma tenebrarum?,ANNELIDA,APHANONEURA,AEOLOSOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,68428
+Aeolosoma travancorense?,ANNELIDA,APHANONEURA,AEOLOSOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,
+Aeshna sp.,ARTHROPODA,INSECTA,ODONATA,Aeshnidae,,5,prd,122,Insects-other,,facultative,,,101603
+Agabetes sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,,5,prd,"83,123",Coleoptera,,facultative,,,112072
+Agabus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,,5,prd,"83,123",Coleoptera,,facultative,,,111966
+Agapetus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Glossosomatidae,,0,scr,125,Trichoptera,,intolerant,,,117121
+Agarodes sp.,Arthropoda,Insecta,Trichoptera,Sericostomatidae,,,,,,,,,,116983
+Agnetina annulipes,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,2,prd,"112,114",Plecoptera,,intolerant,,,102983
+Agnetina capitata,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,2,prd,"112,114",Plecoptera,"Phasganophora capitata, Neophasganophora capitata",intolerant,3,6,102979
+Agnetina flavescens,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,2,prd,"112,114",Plecoptera,,intolerant,,,102984
+Agnetina sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,2,prd,"112,114",Plecoptera,,intolerant,,,102975
+Agraylea sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,8,c-g,125,Trichoptera,,tolerant,,,115635
+Alisotrichia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,125,Trichoptera,,facultative,,,181197
+Allocapnia sp.,ARTHROPODA,INSECTA,PLECOPTERA,Capniidae,,3,shr,"52,114",Plecoptera,,intolerant,,,102644
+Allocapnia vivipara,ARTHROPODA,INSECTA,PLECOPTERA,Capniidae,,3,shr,"52,114",Plecoptera,,intolerant,,,102657
+Alloperla sp.,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,0,c-g,"83,114",Plecoptera,,intolerant,,,103203
+Almyracuma proximoculi,ARTHROPODA,CRUSTACEA,CUMACEA,Nannastacidae,,5,c-g,48,Crustacea,,facultative,,,90979
+Almyracuma sp.,ARTHROPODA,CRUSTACEA,CUMACEA,Nannastacidae,,5,c-g,48,Crustacea,,facultative,,,90978
+Alotanypus aris,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,9,prd,36,Chironomidae,Alotanypus sp.,tolerant,,,
+Alotanypus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,9,prd,36,Chironomidae,,tolerant,,,206646
+Ameletus ludens,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ameletidae,,0,c-g,"83,34",Ephemeroptera,,intolerant,,,101010
+Ameletus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ameletidae,,0,c-g,83,Ephemeroptera,,intolerant,,,100996
+Amnicola decepta,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,5,scr,"83,60",Mollusca,Amnicola lustrica,facultative,,,
+Amnicola grana,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,5,scr,"60,83",Mollusca,,facultative,,,
+Amnicola limosa,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,5,scr,"60,83",Mollusca,,facultative,,,
+Amnicola sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,5,scr,"60,83",Mollusca,,facultative,,,70747
+Amphichaeta americana,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68981
+Amphichaeta sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68979
+Amphinemura delosa,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,3,shr,54,Plecoptera,,intolerant,,,102541
+Amphinemura nigritta,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,3,shr,54,Plecoptera,,intolerant,,,102542
+Amphinemura sp.,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,3,shr,"83,114",Plecoptera,,intolerant,,,102540
+Amphinemura wui,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,3,shr,54,Plecoptera,,intolerant,,,102543
+Anacaena sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,c-g,"83,123",Coleoptera,,facultative,,,112878
+Anax longipes,ARTHROPODA,INSECTA,ODONATA,Aeshnidae,,7,prd,,Insects-Other,,facultative,,,101599
+Anchytarsus bicolor,ARTHROPODA,INSECTA,COLEOPTERA,Ptilodactylidae,,3,shr,19,Coleoptera,,intolerant,,,114668
+Ancyronyx sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,c-g,19,Coleoptera,,facultative,,,114193
+Ancyronyx variegatus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,c-g,19,Coleoptera,,facultative,,,114194
+Anodonta implicata,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,79941
+Anodonta sp.,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,79930
+Anopheles sp.,ARTHROPODA,INSECTA,DIPTERA,Culicidae,,8,c-f,83,Insects-other,,tolerant,,,125956
+Anthopotamus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Potamanthidae,,4,c-g,"83,73",Ephemeroptera,Potamanthus sp.,intolerant,4,5,568559
+Anthopotamus verticus,ARTHROPODA,INSECTA,EPHEMEROPTERA,Potamanthidae,,4,c-g,"72,73",Ephemeroptera,Potamanthus verticus,intolerant,,,609662
+Antocha sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,3,c-g,"83,25",Insects-other,,intolerant,8,6,119656
+Antocha sp. 1,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,3,c-g,"83,25",Insects-other,,intolerant,,,119656
+Antocha sp. 2,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,3,c-g,"83,25",Insects-other,,intolerant,,,119656
+Apatania sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Apataniidae,,3,scr,125,Trichoptera,,intolerant,3,4,115935
+Apedilum sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,,c-f,36,Chironomidae,,,,,206655
+Apsectrotanypus johnsoni,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,7,prd,"92,36",Chironomidae,Apsectrotanypus sp.,facultative,,,128024
+Arcteonais lomondi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68976
+Arcteonais sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68975
+Arctopsyche ladogensis,Arthropoda,INSECTA,Trichoptera,Hydropsychidae,,1,c-f,"125,83",,,intolerant,,,115534
+Arctopsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,1,c-f,"125,83",Trichoptera,,intolerant,,,115529
+Argia moesta,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,6,prd,"83,122",Insects-other,,facultative,,,102146
+Argia sp.,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,6,prd,"83,122",Insects-other,,facultative,,,102139
+Arrenurus sp.,ARTHROPODA,ARACHNOIDEA,,Arrenuridae,,6,prd,108,Other,,facultative,,,82864
+Atherix sp.,ARTHROPODA,INSECTA,DIPTERA,Athericidae,,4,prd,117,Insects-other,,intolerant,8,5,130929
+Atractides sp.,ARTHROPODA,ARACHNOIDEA,,Atractideidae,,6,prd,108,Other,,facultative,,,83282
+Atrichopogon sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127113
+Attenella attenuata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,2,Ephemeroptera,,intolerant,,,101340
+Attenella margarita,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,2,Ephemeroptera,Ephemerella margarita,intolerant,,,101343
+Attenella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,2,Ephemeroptera,,intolerant,,,101338
+Aulodrilus americanus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,"18,83",Oligochaeta,,tolerant,,,68683
+Aulodrilus limnobius,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,"18,83",Oligochaeta,,tolerant,,,68683
+Aulodrilus pigueti,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,"18,83",Oligochaeta,,tolerant,,,68680
+Aulodrilus piqueti,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,"18,83",Oligochaeta,,tolerant,,,
+Aulodrilus pluriseta,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,"18,83",Oligochaeta,,tolerant,,,68684
+Aulodrilus sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,"18,83",Oligochaeta,,tolerant,,,68679
+Axarus festivus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,"88,124",Chironomidae,,facultative,,,129239
+Axarus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,"88,124",Chironomidae,,facultative,,,129236
+Baetis brunneicolor,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,74,Ephemeroptera,,intolerant,1,5,100825
+Baetis flavistriga,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,74,Ephemeroptera,,intolerant,7,7,100835
+Baetis intercalaris,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,5,c-g,74,Ephemeroptera,,facultative,6,5,100808
+Baetis pluto,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,74,Ephemeroptera,,facultative,,,100858
+Baetis sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,74,Ephemeroptera,,facultative,6,3,100800
+Baetis tricaudatus,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,74,Ephemeroptera,,facultative,8,9,100817
+Baetisca sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetiscidae,,4,c-g,83,Ephemeroptera,,intolerant,,,101494
+Basiaeschna sp.,ARTHROPODA,INSECTA,ODONATA,Aeshnidae,,6,prd,"83,122",Insects-other,,facultative,,,101648
+Batracobdella phalera,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69374
+Batracobdella sp.,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69358
+Berosus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,c-g,"83,123",Coleoptera,,facultative,,,112812
+Bezzia sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127778
+Bezzia sp. 1,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127778
+Bezzia sp. 2,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127778
+Bithynia sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Bithyniidae,,8,scr,"60,83",Mollusca,,tolerant,,,70793
+Bithynia tentaculata,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Bithyniidae,,8,scr,"60,83",Mollusca,,tolerant,,,70794
+Bittacomorpha sp.,ARTHROPODA,INSECTA,DIPTERA,Ptychopteridae,,9,c-g,83,Insects-other,,tolerant,,,125765
+Blepharicera sp.,ARTHROPODA,INSECTA,DIPTERA,Blephariceridae,Blepharicerinae,0,scr,83117,Insects-Other,,intolerant,,,121255
+Bothrioneurum sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,18,Oligochaeta,,tolerant,,,68778
+Bothrioneurum vejdovskyanum,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,7,c-g,18,Oligochaeta,,tolerant,,,68779
+Boyeria grafiana,ARTHROPODA,INSECTA,ODONATA,Aeschnidae,,2,prd,,Insects-Other,,intolerant,,,101646
+Boyeria sp.,ARTHROPODA,INSECTA,ODONATA,Aeschnidae,,2,prd,"83,122",Insects-other,,intolerant,,,101645
+Boyeria vinosa,ARTHROPODA,INSECTA,ODONATA,Aeschnidae,,2,prd,"83,122",Insects-other,,intolerant,,,101647
+Brachycentrus americanus,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,1,c-f,42,Trichoptera,,intolerant,,,116912
+Brachycentrus appalachia,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,0,c-f,42,Trichoptera,Brachycentrus sp. 1,intolerant,3,4,116921
+Brachycentrus incanus,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,0,c-f,42,Trichoptera,Brachycentrus sp. 3,intolerant,,,116919
+Brachycentrus lateralis,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,1,c-f,42,Trichoptera,,intolerant,,,116914
+Brachycentrus nigrosoma,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,1,c-f,42,Trichoptera,,intolerant,,,116916
+Brachycentrus numerosus,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,1,c-f,42,Trichoptera,Brachycentrus sp. 2,intolerant,,,116910
+Brachycentrus solomoni,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,1,c-f,42,Trichoptera,,intolerant,,,604655
+Brachycentrus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,1,c-f,42,Trichoptera,,intolerant,,,116906
+Brachycercus maculatus,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,3,c-g,"83,23",Ephemeroptera,,intolerant,,,101475
+Brachycercus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,3,c-g,"83,23",Ephemeroptera,,intolerant,,,101468
+Branchiobdella sp.,ANNELIDA,BRANCHIOBDELLA,BRANCHIOBDELLIDA,Branchiobdellidae,,6,c-g,108,Other,,facultative,,,69180
+Branchiura sowerbyi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,6,c-g,"18,83",Oligochaeta,,tolerant,,,68621
+Branchiura sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDAE,Tubificidae,,6,c-g,"18,83",Oligochaeta,,tolerant,,,68619
+Bratislavia dadayi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,Naidinae,,c-g,"83,61",Oligochaeta,,,,,974730
+Brillia flavifrons,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,80,Chironomidae,Brillia sp. 1,facultative,,,128478
+Brillia parva,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,80,Chironomidae,,facultative,,,128481
+Brillia sera,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,80,Chironomidae,,facultative,,,128483
+Brillia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,80,Chironomidae,,facultative,,,128477
+Brundiniella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,83,Chironomidae,,facultative,,,128026
+Caecidotea communis,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,"108, 126",Crustacea,Asellus communis,tolerant,,,568819
+Caecidotea intermedius,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,126,Crustacea,,tolerant,,,92711
+Caecidotea nr. racovitzai,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,"108,126",Crustacea,Asellus nr. racovitzai,tolerant,,,92692
+Caecidotea racovitzai,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,"108, 126",Crustacea,Asellus racovitzai,tolerant,6,2,92692
+Caecidotea racovitzai racovitzai,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,"108,126",Crustacea,Asellus racovitzai racovitzai,tolerant,,,92694
+Caecidotea sp.,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,108,Crustacea,Asellus sp.,tolerant,7,9,92686
+Caenis amica,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,84,Ephemeroptera,,facultative,,,101480
+Caenis anceps,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,84,Ephemeroptera,Caenis sp.,facultative,,,101481
+Caenis diminuta,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,84,Ephemeroptera,,facultative,,,101483
+Caenis latipennis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,84,Ephemeroptera,Caenis sp.,facultative,,,101488
+Caenis macafferti,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,84,Ephemeroptera,,facultative,,,568670
+Caenis punctata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,84,Ephemeroptera,,facultative,,,101489
+Caenis sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,83,Ephemeroptera,,facultative,3,3,101478
+Callibaetis sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,7,c-g,83,Ephemeroptera,,tolerant,,,100903
+Calopteryx sp.,ARTHROPODA,INSECTA,ODONATA,Calopterygidae,,6,prd,"83,122",Insects-other,Agrion sp.,facultative,,,102052
+Cambarus bartonii,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,,,97343
+Cambarus sp.,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,,,97337
+Campeloma decisum,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Viviparidae,,6,scr,"60,83",Mollusca,,facultative,,,70312
+Campeloma sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Viviparidae,,6,scr,"60,83",Mollusca,,facultative,,,70311
+Camptocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,36,Chironomidae,,tolerant,,,128507
+Cardiocladius albiplumus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,prd,77,Chironomidae,"Eukiefferiella nr. similis, Cardiocladius sp. 3, Eukiefferiella potthasti gr.",facultative,,,128512
+Cardiocladius obscurus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,prd,"106,83",Chironomidae,Cardiocladius sp. 1,facultative,8,6,128515
+Cardiocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,prd,106,Chironomidae,,facultative,,,128511
+Celina sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,,5,prd,"83,123",Coleoptera,,facultative,,,112136
+Centroptilum sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,2,c-g,83,Ephemeroptera,,intolerant,,,100873
+Ceraclea alces,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,3,c-g,85,Trichoptera,,intolerant,,,116742
+Ceraclea punctata,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,3,c-g,85,Trichoptera,,intolerant,,,116711
+Ceraclea sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,3,c-g,125,Trichoptera,Athripsodes sp. 2,intolerant,,,116684
+Ceratopsyche alhedra,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,3,c-f,"105,98",Trichoptera,Hydropsyche alhedra,intolerant,,,115597
+Ceratopsyche bronta,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,6,c-f,"103,105",Trichoptera,"Hydropsyche bronta Hydropsyche recurvata, Symphitopsyche bronta",facultative,7,6,115578
+Ceratopsyche bronta/morosa,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,6,c-f,"105, 105",Trichoptera,,facultative,6,4,
+Ceratopsyche morosa,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,6,c-f,"103,105",Trichoptera,"Hydropsyche morosa Symphitopsyche bifida, Hydropsyche bifida, Hydropsyche sp. 1, Hydropsyche sp. 10",facultative,5,1,115581
+Ceratopsyche slossonae,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,103,Trichoptera,"Hydropsyche slossonae Hydropsyche nr. betteni, Hydropsyche sp. 4, Symphitopsyche slossonae",intolerant,6,10,115587
+Ceratopsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,"103, 105",Trichoptera,,facultative,5,4,115570
+Ceratopsyche sparna,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,6,c-f,103,Trichoptera,"Hydropsyche sparna Hydropsyche sp. 8, Symphitopsyche sparna",facultative,6,7,115527
+Ceratopsyche ventura,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,5,c-f,,Trichoptera,Hydropsyche ventura,facultative,,,115483
+Cernotina sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropididae,Polycentropodinae,6,prd,,Trichoptera,,facultative,,,115373
+Chaetocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,124,Chironomidae,,facultative,,,128520
+Chaetocladius vitellinus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,124,Chironomidae,,facultative,,,128532
+Chaetogaster diaphanus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,7,prd,"18,83",Oligochaeta,Chaetogaster cristallinus,facultative,,,68935
+Chaetogaster diastrophus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,7,prd,"18,83",Oligochaeta,,facultative,,,68938
+Chaetogaster limnaei,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,7,prd,"18,83",Oligochaeta,,facultative,,,68943
+Chaetogaster setosus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,7,prd,"18,83",Oligochaeta,,facultative,,,68945
+Chaetogaster sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,7,prd,"18,83",Oligochaeta,,facultative,,,68934
+Chaoborus sp.,ARTHROPODA,INSECTA,DIPTERA,Chaoboridae,,8,prd,83,Insects-other,,tolerant,,,125904
+Chauliodes rastricornis,ARTHROPODA,INSECTA,MEGALOPTERA,Corydalidae,,4,prd,"83,37",Insects-other,,intolerant,,,115025
+Chauliodes sp.,ARTHROPODA,INSECTA,MEGALOPTERA,Corydalidae,,4,prd,"83,37",Insects-other,,intolerant,,,115024
+Chelifera sp.,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,"83,117",Insects-other,,facultative,,,136305
+Cheumatopsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,5,c-f,"125,83",Trichoptera,,facultative,6,6,115408
+Chimarra aterrima?,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,4,c-f,"125,98",Trichoptera,,intolerant,2,3,115278
+Chimarra obscura,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,4,c-f,"125,98",Trichoptera,Chimarra obscura?,intolerant,6,4,115276
+Chimarra socia,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,2,c-f,"125,98",Trichoptera,,intolerant,4,1,115279
+Chimarra sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,4,c-f,125,Trichoptera,,intolerant,2,0,115273
+Chiridotea almyra,ARTHROPODA,CRUSTACEA,ISOPODA,Idoteidae,,5,c-g,48,Crustacea,,facultative,,,92638
+Chiridotea sp.,ARTHROPODA,CRUSTACEA,ISOPODA,Idoteidae,,5,c-g,48,Crustacea,,facultative,,,92637
+Chironomus decorus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,c-g,81,Chironomidae,,tolerant,,,129280
+Chironomus riparius gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,c-g,81,Chironomidae,Chironomus sp. 2,tolerant,,,129313
+Chironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,c-g,81,Chironomidae,,tolerant,9,6,129254
+Choroterpes sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,2,c-g,83,Ephemeroptera,,intolerant,,,101108
+Chromagrion sp.,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,8,prd,"83,122",Insects-other,,tolerant,,,102133
+Chrysops sp.,ARTHROPODA,INSECTA,DIPTERA,Tabanidae,,5,c-g,"83,117",Insects-other,Tabanus sp.,facultative,,,131078
+Cincinnatia cincinnatiensis,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,5,scr,"60,83",Mollusca,Amnicola integra,facultative,,,70510
+Cincinnatia sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,5,scr,"60,83",Mollusca,,facultative,,,70509
+Cinygmula sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,2,scr,"83,34",Ephemeroptera,,intolerant,,,100557
+Cinygmula subaequalis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,2,scr,"83,34",Ephemeroptera,,intolerant,,,100570
+Cipangopaludina sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Viviparidae,,9,c-g,83,Mollusca,,facultative,,,70328
+Claasenia sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,Acroneuriinae,3,prd,,Plecoptera,,intolerant,,,102930
+Claassenia sabulosa,ARTHRODPODA,INSECTA,PLECOPTERA,Perlidae,Acroneuriinae,3,prd,,Plecoptera,,intolerant,,,102932
+Cladopelma sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,9,c-g,124,Chironomidae,Harnischia sp.,tolerant,,,129350
+Cladotanytarsus daviesi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,87,Chironomidae,,facultative,,,
+Cladotanytarsus nr. dispersopilosus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,87,Chironomidae,Micropsectra sp. 4,facultative,,,129879
+Cladotanytarsus nr. mancus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,87,Chironomidae,Tanytarsus sp. 7,facultative,,,129881
+Cladotanytarsus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,87,Chironomidae,,facultative,6,4,129873
+Cladotanytarsus sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,87,Chironomidae,"Cladotanytarsus? sp., Tanytarsus sp. 5",facultative,,,129873
+Cladotanytarsus sp. 4,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,87,Chironomidae,"Atanytarsus sp. 1, Micropsectra sp. 4",facultative,,,129873
+Climacia areolaris,ARTHROPODA,INSECTA,NEUROPTERA,Sisyridae,,5,prd,37,Insects-other,,facultative,,,115087
+Climacia sp.,ARTHROPODA,INSECTA,NEUROPTERA,Sisyridae,,5,prd,37,Insects-other,,facultative,,,115086
+Clinocera sp.,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,"83,117",Insects-other,,facultative,,,135849
+Clinotanypus pinguis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,14,Chironomidae,,tolerant,,,127998
+Clinotanypus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,14,Chironomidae,,tolerant,,,127996
+Cloeon sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,83,Ephemeroptera,,intolerant,,,100756
+Cnephia mutata,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,115,Insects-other,,intolerant,,,126658
+Cnephia sp.,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,115,Insects-other,,intolerant,,,126649
+Coelotanypus scapularis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,"91,90",Chironomidae,,intolerant,,,128016
+Coelotanypus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,"91,90",Chironomidae,,intolerant,,,128010
+Conchapelopia aleta,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128127
+Conchapelopia americana,ANTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128133
+Conchapelopia dusena,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128140
+Conchapelopia goniodes,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128151
+Conchapelopia rurika,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128158
+Conchapelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128130
+Conchapelopia telema,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128159
+Constempellina sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,124,Chironomidae,,intolerant,,,129884
+Constempellina sp. 1,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,124,Chironomidae,Zavrelia sp.,intolerant,,,129884
+Constempellina sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,124,Chironomidae,Zavrelia sp.,intolerant,,,129884
+Corbicula fluminea,MOLLUSCA,PELECYPODA,VENEROIDEA,Corbiculidae,,6,c-f,83,Mollusca,,facultative,,,81387
+Corbicula sp.,MOLLUSCA,PELECYPODA,VENEROIDEA,Corbiculidae,,6,c-f,83,Mollusca,,facultative,,,81385
+Cordulegaster maculata,ARTHROPODA,INSECTA,ODONATA,Cordulegastridae,,3,prd,"83,122",Insects-other,,intolerant,,,102031
+Cordulegaster sp.,ARTHROPODA,INSECTA,ODONATA,Cordulegastridae,,3,prd,"83,122",Insects-other,,intolerant,,,102027
+Corydalus cornutus,ARTHROPODA,INSECTA,MEGALOPTERA,Corydalidae,,4,prd,"83,37",Insects-other,Corydalus sp.,intolerant,2,2,115034
+Corydalus sp.,ARTHROPODA,INSECTA,MEGALOPTERA,Corydalidae,,4,prd,"83,37",Insects-other,,intolerant,,,115033
+Corynoneura lobata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"106,36",Chironomidae,Corynoneura taris,intolerant,,,128567
+Corynoneura nr. celeripes,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,106,Chironomidae,Corynoneura celeripes,intolerant,,,128565
+Corynoneura sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,,intolerant,,,128563
+Crangonyx sp.,ARTHROPODA,CRUSTACEA,AMPHIPODA,Crangonyctidae,,6,c-g,108,Crustacea,,facultative,,,95081
+Crenitis sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,c-g,"83,123",Coleoptera,,facultative,,,113220
+Cricotopus absurdus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,"106,36",Chironomidae,"Cricotopus reversus gr., Cricotopus sp. 9",facultative,,,128578
+Cricotopus annulator gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,107,Chironomidae,,facultative,,,128580
+Cricotopus bicinctus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,scr,"106,107",Chironomidae,Cricotopus sp. 3,tolerant,7,6,128583
+Cricotopus elegans,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,107,Chironomidae,,facultative,,,128593
+Cricotopus festivellus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,107,Chironomidae,,facultative,,,128594
+Cricotopus fugax,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,107,Chironomidae,,facultative,,,128600
+Cricotopus intersectus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,"106,107",Chironomidae,Cricotopus sp. 7,facultative,,,128614
+Cricotopus lebetis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,,shr,36,Chironomidae,,,,,128656
+Cricotopus nostocicola,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,124,Chironomidae,,facultative,,,128628
+Cricotopus nr. cylindraceus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,107,Chironomidae,,facultative,,,128589
+Cricotopus nr. patens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,36,Chironomidae,,facultative,,,
+Cricotopus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,106,Chironomidae,,facultative,,,128575
+"Cricotopus sp. ""ozarks""",ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,106,Chironomidae,,facultative,,,128575
+"Cricotopus sp. ""Santa Fe""",ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,,Chironomidae,,facultative,,,128575
+Cricotopus sylvestris gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,scr,"106,107",Chironomidae,Cricotopus sp. 5,facultative,,,128645
+Cricotopus tremulus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,"106,107",Chironomidae,Cricotopus sp. 1,facultative,8,9,128651
+Cricotopus triannulatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,107,Chironomidae,,facultative,,,128653
+Cricotopus trifascia gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,shr,"106,107",Chironomidae,Cricotopus sp. 2,facultative,9,9,128659
+Cricotopus vierriensis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,shr,107,Chironomidae,,facultative,6,5,128666
+Cricotopus/Orthocladius Complex,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,shr,"83,36",Chironomidae,,facultative,,,128575
+Cryptochironomus fulvus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,prd,32,Chironomidae,"Cryptochironomus sp. 1, Cryptochironomus sp.",tolerant,5,6,129376
+Cryptochironomus ponderosus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,prd,32,Chironomidae,,tolerant,,,129384
+Cryptochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,prd,32,Chironomidae,,tolerant,,,129368
+Cryptolabis sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,Limoniinae,4,shr,,Insects-Other,,intolerant,,,120488
+Cryptotendipes casuarius,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,118,Chironomidae,,facultative,,,129397
+Cryptotendipes emorsus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,118,Chironomidae,,facultative,,,129401
+Cryptotendipes pseudotener,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,118,Chironomidae,,facultative,,,129404
+Cryptotendipes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,124,Chironomidae,,facultative,,,129394
+Culicoides? sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,10,prd,83,Insects-other,,tolerant,,,127558
+Culoptila sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Glossosomatidae,,1,scr,125,Trichoptera,,intolerant,,,115236
+Cultus decisus,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,114,Plecoptera,,intolerant,,,103139
+Cultus sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,114,Plecoptera,,intolerant,,,103137
+Cyathura polita,ARTHROPODA,CRUSTACEA,ISOPODA,Anthuridae,,5,c-g,48,Crustacea,,facultative,,,542646
+Cyathura sp.,ARTHROPODA,CRUSTACEA,ISOPODA,Anthuridae,,5,c-g,48,Crustacea,,facultative,,,92148
+Cyrnellus fraternus,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,8,c-f,125,Trichoptera,"Psychomyiid Genus A, Cyrnellus sp. 2",tolerant,,,117092
+Cyrnellus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,8,c-f,125,Trichoptera,,tolerant,,,117091
+Dannella simplex,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,3,Ephemeroptera,Ephemerella simplex,intolerant,,,101363
+Dannella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,3,Ephemeroptera,,intolerant,,,101360
+Dasyhelea sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,4,prd,,Insects-Other,,intolerant,,,127278
+Demicryptochironomus cuneatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,Demicryptochironomus sp. 2,tolerant,,,129422
+Demicryptochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129421
+Demicryptochironomus sp. 3,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129421
+Dero digitata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68904
+Dero flabelliger,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68902
+Dero furcata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,Aulophorus furcatus,tolerant,,,68912
+Dero nivea,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68900
+Dero obtusa,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68907
+Dero pectinata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68923
+Dero sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,Aulophorus sp.,tolerant,,,68898
+Dero vaga,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68915
+Diamesa sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,5,c-g,124,Chironomidae,Diamesa spp.,facultative,10,10,203137
+Dicranota sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,3,prd,"83,25",Insects-other,,intolerant,5,10,121027
+Dicrotendipes fumidus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,Dicrotendipes leucoscelis,tolerant,,,129436
+Dicrotendipes lucifer,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,"Dicrotendipes nervosus Type I, Dicrotendipes nervosus, Dicrotendipes sp. 1",tolerant,,,129458
+Dicrotendipes modestus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,,tolerant,,,129448
+Dicrotendipes neomodestus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,Dicrotendipes sp. 2,tolerant,10,4,129450
+Dicrotendipes nervosus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,,tolerant,,,129452
+Dicrotendipes simpsoni,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,"Dicrotendipes nervosus Type II, Einfeldia sp.",tolerant,,,193743
+Dicrotendipes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,,tolerant,,,129428
+Dicrotendipes thanatogratus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,35,Chironomidae,,tolerant,,,206649
+Didymops sp.,ARTHROPODA,INSECTA,ODONATA,Corduliidae,,2,prd,"83, 122",Insects-other,,intolerant,,,101851
+Dimecoenia spinosa,ARTHROPODA,INSECTA,DIPTERA,Ephydridae,,6,shr,71,Insects-other,,facultative,,,147484
+Dineutus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Gyrinidae,,4,prd,"83,123",Coleoptera,,intolerant,,,112711
+Diphetor hageni,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,74,Ephemeroptera,Baetis hageni,facultative,,,568598
+Diphetor sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,74,Ephemeroptera,,facultative,,,568550
+Diplectrona sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,5,c-f,"125,83",Trichoptera,,facultative,,,115399
+Diplocladius cultriger,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,"124,36",Chironomidae,Diplocladius sp.,tolerant,,,128671
+Diplocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orhocladiinae,8,c-g,"124,36",Chironomidae,,tolerant,,,128670
+Diura sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,113,Plecoptera,,intolerant,,,103094
+Dixa sp.,ARTHROPODA,INSECTA,DIPTERA,Dixidae,,1,c-f,"83,127",Insects-other,,intolerant,,,125810
+Dixella sp.,ARTHROPODA,INSECTA,DIPTERA,Dixidae,,1,c-g,,Insects-other,,intolerant,,,125854
+Djalmabatista sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,,6,,,Chironomidae,,facultative,,,128271
+Dolophilodes sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,0,c-f,125,Trichoptera,,intolerant,4,3,115319
+Donacia sp.,Arthropoda,INSECTA,Coleoptera,Chrysomelidae,,7,shr,,Coleoptera,,facultative,,,114510
+Dreissena bugensis,MOLLUSCA,PELECYPODA,VENEROIDEA,Dreisseniidae,,8,c-f,82,Mollusca,,tolerant,,,567514
+Dreissena polymorpha,MOLLUSCA,PELECYPODA,VENEROIDEA,Dreisseniidae,,8,c-f,82,Mollusca,,tolerant,,,81339
+Dreissena sp.,MOLLUSCA,PELECYPODA,VENEROIDEA,Dreisseniidae,,8,c-f,82,Mollusca,,tolerant,,,81338
+Drunella cornuta,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,c-g,4,Ephemeroptera,"Ephemerella cornuta, Ephemerella sp. 6",intolerant,,,609595
+Drunella cornutella,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,scr,4,Ephemeroptera,Ephemerella cornutella,intolerant,4,4,101366
+Drunella lata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,scr,4,Ephemeroptera,Ephemerella lata,intolerant,,,185972
+Drunella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,scr,4,Ephemeroptera,,intolerant,,,101365
+Drunella tuberculata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,scr,4,Ephemeroptera,"Ephemerella tuberculata, Ephemerella sp. 2",intolerant,,,185974
+Drunella walkeri,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,scr,4,Ephemeroptera,Ephemerella walkeri,intolerant,,,185973
+Dubiraphia bivittata,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,6,c-g,19,Coleoptera,,facultative,,,114129
+Dubiraphia quadrinotata,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,c-g,19,Coleoptera,,facultative,,,114130
+Dubiraphia sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,6,c-g,"83,19",Coleoptera,,facultative,,,114126
+Dubiraphia vittata,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,6,c-g,19,Coleoptera,,facultative,,,114131
+Dugesia sp.,PLATYHELMINTHES,TURBELLARIA,TRICLADIDA,Planariidae,,6,prd,62,Other,Cura foremanii,facultative,,,54503
+Dugesia tigrina,PLATYHELMINTHES,TURBELLARIA,TRICLADIDA,Planariidae,,6,prd,62,Other,,facultative,,,54504
+Eccoptura sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,3,prd,114,Plecoptera,,intolerant,,,102939
+Eccoptura xanthenes,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,3,prd,114,Plecoptera,,intolerant,,,102940
+Echinogammarus ischnus,ARTHROPODA,CRUSTACEA,AMPHIPODA,Gammaridae,,9,c-g,,Crustacea,,tolerant,,,656834
+Eclipidrilus sp.,ANNELIDA,OLIGOCHAETA,LUMBRICULIDA,Lumbriculidae,,5,c-g,18,Oligochaeta,,tolerant,,,68473
+Ectopria nervosa,ARTHROPODA,INSECTA,COLEOPTERA,Psephenidae,,5,scr,"83,19",Coleoptera,,facultative,10,9,114088
+Ectopria sp.,ARTHROPODA,INSECTA,COLEOPTERA,Psephenidae,,5,scr,"83,19",Coleoptera,,facultative,,,114087
+Edotea sp.,ARTHROPODA,CRUSTACEA,ISOPODA,Idoteidae,,5,c-g,48,Crustacea,,facultative,,,92623
+Einfeldia natchitocheae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,9,c-g,"124,36",Chironomidae,Einfeldia sp. gr. D,tolerant,,,129463
+Einfeldia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,9,c-g,124,Chironomidae,Einfeldia? sp.,tolerant,,,129459
+Einfeldia sp. A,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,9,c-g,36,Chironomidae,,,,,
+Elliptio complanata,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,8,c-f,"116,83,3",Mollusca,Elliptio complanatus,tolerant,,,79952
+Elliptio sp.,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,8,c-f,"116,83,3",Mollusca,,tolerant,,,79951
+Enallagma sp.,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,8,prd,"83,122",Insects-other,,tolerant,,,102102
+Endochironomus nigricans,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,"49,106",Chironomidae,Endochironomus sp.,tolerant,,,129471
+Endochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,124,Chironomidae,,tolerant,,,129470
+Endochironomus subtendens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,"49,106",Chironomidae,,tolerant,,,129474
+Endotribelos nr. hesperium,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,shr,49,Chironomidae,,facultative,,,130047
+Endotribelos sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,,Chironomidae,,facultative,,,130046
+Epeorus (Iron) sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,0,scr,83,Ephemeroptera,Iron sp.,intolerant,0,0,100626
+Epeorus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,0,scr,83,Ephemeroptera,,intolerant,,,100626
+Epeorus vitreus,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,0,scr,83,Ephemeroptera,,intolerant,,,100649
+Ephemera guttulata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,2,c-g,"83,72,24",Ephemeroptera,,intolerant,,,101529
+Ephemera simulans,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,1,c-g,,Ephemeroptera,,intolerant,,,101530
+Ephemera sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,2,c-g,"83,72,24",Ephemeroptera,,intolerant,,,101526
+Ephemerella aurivillii,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,c-g,7,Ephemeroptera,,intolerant,,,101255
+Ephemerella dorothea,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,,intolerant,,,101272
+Ephemerella excrucians?,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,,intolerant,,,101276
+Ephemerella invaria,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,,intolerant,,,101282
+Ephemerella needhami,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,,intolerant,,,101291
+Ephemerella rotunda,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,Ephemerella sp. 3,intolerant,,,101296
+Ephemerella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,,intolerant,4,4,101233
+Ephemerella subvaria,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,1,c-g,7,Ephemeroptera,,intolerant,4,1,101241
+Ephoron leukon?,ARTHROPODA,INSECTA,EPHEMEROPTERA,Polymitarcyidae,,2,c-g,"83,24",Ephemeroptera,,intolerant,1,1,101572
+Ephoron sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Polymitarcyidae,,2,c-g,"83,24",Ephemeroptera,,intolerant,,,101570
+Ephydra sp.,ARTHROPODA,INSECTA,DIPTERA,Ephydridae,,8,shr,117,Insects-other,,facultative,,,147486
+Epicordulia sp.,ARTHROPODA,INSECTA,ODONATA,Corduliidae,,6,prd,,Insects-Other,,facultative,,,101862
+Epoicocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,,intolerant,,,128682
+Eristalis sp.,ARTHROPODA,INSECTA,DIPTERA,Syrphidae,,10,c-g,83,Insects-other,,tolerant,,,140904
+Erpobdella sp.,ANNELIDA,HIRUDINEA,ARHYNCHOBDELLIDA,Erpobdellidae,,8,prd,"83, 63",Other,,tolerant,,,69444
+Erythemis sp.,ARTHROPODA,INSECTA,ODONATA,Libellulidae,,2,prd,83,Insects-other,,intolerant,,,101865
+Estigmene sp.,ARTHROPODA,INSECTA,LEPIDOPTERA,Arctiidae,,5,shr,66,Insects-other,,facultative,,,117298
+Eucorethra sp.,ARTHROPODA,INSECTA,DIPTERA,Chaoboridae,Eucorethrinae,7,prd,,Insects-Other,,tolerant,,,125888
+Eukiefferiella brehmi gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,13,Chironomidae,"Eukiefferiella clypeata, Eukiefferiella sp. 5, Heterotrissocladius  sp. 3",intolerant,,,128704
+Eukiefferiella brevicalcar gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,13,Chironomidae,,intolerant,,,128703
+Eukiefferiella claripennis gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,13,Chironomidae,Eukiefferiella sp. 9,tolerant,,,128693
+Eukiefferiella coerulescens gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,13,Chironomidae,,intolerant,,,128701
+Eukiefferiella devonica gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,13,Chironomidae,"Cardiocladius sp. 4, Eukiefferiella sp. 6",intolerant,9,9,128695
+Eukiefferiella gracei gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,13,Chironomidae,,intolerant,,,128705
+Eukiefferiella pseudomontana gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,13,Chironomidae,Eukiefferiella sp. 4,tolerant,,,128706
+Eukiefferiella similis gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,13,,,facultative,,,553084
+Eukiefferiella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,83,Chironomidae,,facultative,,,128689
+Eukiefferiella tirolensis,ARTHROPODA,INSECTA,DIPTER,Chironomidae,Orthocladiinae,4,c-g,,Chironomidae,,intolerant,,,
+Euparyphus sp.,ARTHROPODA,INSECTA,DIPTERA,Stratiomyidae,,7,c-g,"83,59",Insects-other,,facultative,,,130436
+Eurylophella funeralis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,0,c-g,"6,46",Ephemeroptera,Ephemerella funeralis,intolerant,,,101332
+Eurylophella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,6,Ephemeroptera,,intolerant,,,101324
+Eurylophella temporalis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,5,c-g,"6,46",Ephemeroptera,Ephemerella temporalis,facultative,,,101326
+Eurylophella verisimilis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,"6,46",Ephemeroptera,"Ephemerella versimilis, Ephemerella sp. 4",intolerant,,,185971
+Ferrissia fragilis,ANNELIDA,OLIGOCHAETA,BASOMMATOPHORA,Ancylidae,,6,scr,"83,61",Oligochaeta,,,,,76570
+Ferrissia parallela,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Ancylidae,,6,scr,"60,83",Mollusca,,facultative,,,76571
+Ferrissia rivularis,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Ancylidae,,6,scr,"60,83",Mollusca,Ferrissia parallela,facultative,,,76572
+Ferrissia sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Ancylidae,,6,scr,"60,83",Mollusca,,facultative,9,5,76569
+Ferrissia walkeri,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Ancylidae,,6,scr,"60,83",Mollusca,,facultative,,,76575
+Forcipomyia sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,scr,83,Insects-other,,facultative,,,127152
+Fossaria sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,Lymnaea humilis,facultative,,,76497
+Gammarus fasciatus,ARTHROPODA,CRUSTACEA,AMPHIPODA,Gammaridae,,6,c-g,"17,57",Crustacea,,facultative,,,93780
+Gammarus pseudolimnaeus,ARTHROPODA,CRUSTACEA,AMPHIPODA,Gammaridae,,4,c-g,"17,57",Crustacea,,intolerant,,,93790
+Gammarus sp.,ARTHROPODA,CRUSTACEA,AMPHIPODA,Gammaridae,,6,c-g,"17,57",Crustacea,,facultative,8,9,93773
+Gammarus tigrinus,ARTHROPODA,CRUSTACEA,AMPHIPODA,Gammaridae,,6,c-g,"17,57",Crustacea,,facultative,,,93781
+Georthocladius fimbriatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,,Chironomidae,,facultative,,,128714
+Glossosoma sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Glossosomatidae,,0,scr,125,Trichoptera,,intolerant,6,0,117159
+Glyptotendipes dreisbachi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,10,Chironomidae,,tolerant,,,129487
+Glyptotendipes lobiferus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,106,Chironomidae,Glyptotendipes sp. 1,tolerant,,,129488
+Glyptotendipes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,124,Chironomidae,,tolerant,,,129483
+Glyptotendipes sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,shr,124,Chironomidae,,tolerant,,,129483
+Goeldichironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129506
+Goera sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Goeridae,,3,scr,125,Trichoptera,,intolerant,,,116423
+Gomphus sp.,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,5,prd,"83,122",Insects-other,,facultative,,,101665
+Goniobasis livescens,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Pleuroceridae,,6,scr,"60,83",Mollusca,,facultative,10,10,71544
+Goniobasis sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Pleuroceridae,,6,scr,"60,83",Mollusca,,facultative,,,71542
+Goniobasis virginica,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Pleuroceridae,,6,scr,"60,83",Mollusca,,facultative,,,71852
+Guttipelopia guttipennis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,5,prd,12,Chironomidae,,facultative,,,128162
+Guttipelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chronomidae,Tanypodinae,5,prd,12,Chironomidae,,facultative,,,128161
+Gymnometriocnemus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,,intolerant,,,128718
+Gyraulus circumstriatus,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,8,scr,"60,83",Mollusca,,tolerant,,,76593
+Gyraulus deflectus,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,8,scr,"60,83",Mollusca,Gyraulus hirsutus,tolerant,,,76594
+Gyraulus parvus,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,8,scr,"60,83",Mollusca,,tolerant,,,76595
+Gyraulus sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,8,scr,"60,83",Mollusca,,tolerant,,,76592
+Gyrinus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Gyrinidae,,4,prd,"83,123",Coleoptera,,intolerant,,,112654
+Habrophlebia sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,4,c-g,83,Ephemeroptera,,intolerant,,,101183
+Habrophlebia vibrans,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,4,c-g,"83,34",Ephemeroptera,Habrophlebia sp.,intolerant,,,101184
+Habrophlebiodes sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,6,scr,83,Ephemeroptera,,facultative,,,101122
+Haemonais sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,69003
+Haemonais waldvogeli,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,69004
+Hagenius brevistylus,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,1,prd,"83,122",Insects-other,,intolerant,,,101735
+Hagenius sp.,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,1,prd,"83,122",Insects-other,,intolerant,,,101734
+Haliplus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Haliplidae,,5,shr,"83,123",Coleoptera,,facultative,,,111858
+Haploperla brevis,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,1,prd,114,Plecoptera,,intolerant,,,103263
+Haploperla sp.,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperildae,,1,prd,114,Plecoptera,,intolerant,,,103260
+Harnischia curtilamellata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,106,Chironomidae,"Paracladopelma nais, Paracladoplema sp.",tolerant,,,129517
+Harnischia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chrionominae,8,c-g,106,Chironomidae,,tolerant,,,129255
+Hayesomyia senata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"94,75",Chironomidae,,facultative,,,128249
+Hayesomyia sp.,ARTHROPODA,INSECTA,DIPTERA,Chrionomidae,Tanypodinae,6,prd,"94,75",Chironomidae,,facultative,,,128237
+Heleniella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,prd,,Chironomidae,,facultative,,,128730
+Helichus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dryopidae,,5,scr,"83,19",Coleoptera,,facultative,,,114006
+Helicopsyche borealis,ARTHROPODA,INSECTA,TRICHOPTERA,Helicopsychidae,,3,scr,"125,83",Trichoptera,,intolerant,1,2,117020
+Helicopsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Helicopsychidae,,3,scr,"125,83",Trichoptera,,intolerant,,,117016
+Helisoma anceps,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,"60,83",Mollusca,,facultative,,,76600
+Helisoma campanulata,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,60,Mollusca,,facultative,,,76603
+Helisoma sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,60,Mollusca,,facultative,,,76599
+Helisoma trivolvis,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,60,Mollusca,,facultative,,,76611
+Helius sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,4,c-g,"83,25",Insects-other,,intolerant,,,119690
+Helobdella elongata,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69397
+Helobdella sp.,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,63,Other,,tolerant,,,69396
+Helobdella sp. 1,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,63,Other,,tolerant,,,69396
+Helobdella stagnalis,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69398
+Helobdella triserialis,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69399
+Helochares sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,prd,"83,123",Coleoptera,,facultative,,,113150
+Helopelopia cornuticaudata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"94,124",Chironomidae,Conchapelopia sp. 2,facultative,,,128138
+Helopelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"94,124",Chironomidae,,facultative,,,128131
+Helophorus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,shr,"83,123",Coleoptera,,facultative,,,113106
+Helopicus sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,"114,86",Plecoptera,,intolerant,,,103084
+Helopicus subvarians,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,"114,86",Plecoptera,,intolerant,,,103085
+Hemerodromia sp.,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,"83,117",Insects-other,"Undetermined Empididae, Undetermined Empidae, Roederiodes sp.",facultative,5,6,136327
+Heptagenia culacantha,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,2,scr,"83,38",Ephemeroptera,"Heptagenia sp. 3, Cinygma sp., Stenonema sp. 3",intolerat,,,100623
+Heptagenia flavescens,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,"83,24",Ephemeroptera,,intolerant,,,100610
+Heptagenia marginalis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,"83,24",Ephemeroptera,,intolerant,,,100616
+Heptagenia pulla gr.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,"83,24",Ephemeroptera,,intolerant,,,100619
+Heptagenia sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,83,Ephemeroptera,,intolerant,0,0,100602
+Hesperoconopa sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,2,c-g,25,Insects-other,,intolerant,,,120732
+Hesperocorixa sp.,ARTHROPODA,INSECTA,HEMIPTERA,Corixidae,,5,prd,83,Insects-other,,facultative,,,103444
+Hesperophylax designatus,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,3,shr,125,Trichoptera,,intolerant,,,116008
+Hesperophylax sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,3,shr,125,Trichoptera,,intolerant,,,116001
+Hetaerina sp.,ARTHROPODA,INSECTA,ODONATA,Calopterygidae,,6,prd,"83,122",Insects-other,,facultative,,,102048
+Heterocloeon anoka,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,2,scr,"83, 34",Ephemeroptera,,intolerant,,,776948
+Heterocloeon curiosum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,2,scr,"83,34",Ephemeroptera,,intolerant,,,100796
+Heterocloeon sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,2,scr,83,Ephemeroptera,,intolerant,,,100794
+Heteroplectron americanum,ARTHROPODA,INSECTA,TRICHOPTERA,Calamoceratidae,,3,shr,"83,125",Trichoptera,,intolerant,,,553090
+Heteroplectron sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Calamoceratidae,,3,shr,"83,125",Trichoptera,,intolerant,,,116537
+Heterotrissocladius marcidus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"106,36",Chironomidae,Heterotrissocladius sp. 2,intolerant,,,128744
+Heterotrissocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"106,36",Chironomidae,,intolerant,,,128737
+Hexagenia sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,6,c-g,83,Ephemeroptera,,facultative,,,101537
+Hexatoma sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,2,prd,"83,25",Insects-other,,intolerant,0,1,120094
+Hexatoma sp. 1,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,2,prd,"83,25",Insects-other,,intolerant,,,120094
+Hexatoma sp. 2,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,2,prd,"83,25",Insects-other,,intolerant,,,120094
+Homoplectra sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,125,Trichoptera,,intolerant,,,115618
+Hudsonimyia karelena,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,2,prd,28,Chironomidae,,intolerant,,,128168
+Hudsonimyia parrishi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,2,prd,28,Chironomidae,,intolerant,,,128169
+Hudsonimyia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,2,prd,28,Chironomidae,,intolerant,,,128167
+Hyalella azteca,ARTHROPODA,CRUSTACEA,AMPHIPODA,Talitridae,,8,c-g,17,Crustacea,,tolerant,,,94026
+Hyalella sp.,ARTHROPODA,CRUSTACEA,AMPHIPODA,Talitridae,,8,c-g,17,Crustacea,,tolerant,,,94025
+Hybomitra sp.,ARTHROPODA,INSECTA,DIPTERA,Tabanidae,,5,prd,83,Insects-other,,facultative,,,131321
+Hydatophylax sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,2,shr,125,Trichoptera,,intolerant,,,115995
+Hydra sp.,COELENTERATA,HYDROZOA,HYDROIDA,Hydridae,,5,prd,108,Other,,facultative,,,50845
+Hydraena sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydraenidae,,5,prd,"83,123",Coleoptera,,facultative,,,112757
+Hydrellia sp.,ARTHROPODA,INSECTA,DIPTERA,Ephydridae,,6,shr,127,Insects-other,,facultative,,,147117
+Hydrobaenus pilipes,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,99,Chironomidae,,tolerant,,,128764
+Hydrobaenus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,99,Chironomidae,,tolerant,,,128750
+Hydrobius sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,prd,"83,123",Coleoptera,,facultative,,,113196
+Hydrocanthus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Noteridae,Noterinae,5,,,Coleoptera,,facultative,,,112623
+Hydrochara sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,prd,"83,123",Coleoptera,,facultative,,,113190
+Hydrochus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,shr,"83,123",Coleoptera,,facultative,,,113166
+Hydroporus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,,5,prd,"83,123",Coleoptera,,facultative,,,112390
+Hydropsyche betteni,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,7,c-f,105,Trichoptera,,facultative,7,9,115454
+Hydropsyche bidens,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,3,c-f,"98,105",Trichoptera,,intolerant,,,115458
+Hydropsyche dicantha,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,2,c-f,105,Trichoptera,Hydropsyche sp. 9,intolerant,,,115465
+Hydropsyche leonardi,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,0,c-f,105,Trichoptera,"Hydropsyche nr. simulans, Hydropsyche sp. 4",intolerant,,,115472
+Hydropsyche nr. depravata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,6,c-f,105,Trichoptera,,facultative,,,115464
+Hydropsyche orris,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,5,c-f,105,Trichoptera,Hydropsyche sp. 10,facultative,,,115485
+Hydropsyche phalerata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,1,c-f,105,Trichoptera,Hydropsyche sp. 2,intolerant,,,115477
+Hydropsyche recurvata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,105,Trichoptera,,intolerant,,,115520
+Hydropsyche scalaris,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,2,c-f,105,Trichoptera,"Hydropsyche nr. hageni, Hydropsyche nr. aerata, Hydropsyche sp. 3",intolerant,3,3,115480
+Hydropsyche separata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,105,Trichoptera,,intolerant,,,115525
+Hydropsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,125,Trichoptera,,intolerant,5,4,115453
+Hydropsyche valanis,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,6,c-f,105,Trichoptera,Hydropsyche sp. 5,facultative,,,115482
+Hydropsyche venularis,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,105,Trichoptera,Hydropsyche sp. 11,intolerant,,,115484
+Hydropsyche walkeri,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,4,c-f,103,Trichoptera,,intolerant,,,115593
+Hydroptila ajax,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 1,facultative,,,115593
+Hydroptila consimilis,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 9,facultative,9,10,115647
+Hydroptila nr. albicornis,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 2,facultative,,,115644
+Hydroptila nr. armata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 3,facultative,,,115646
+Hydroptila nr. hamata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 5,facultative,,,115650
+Hydroptila nr. waubesiana,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 8,facultative,,,115657
+Hydroptila sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,125,Trichoptera,Hydroptila sp. 6,facultative,6,6,115641
+Hydroptila spatulata,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,98,Trichoptera,Hydroptila sp. 11,facultative,9,8,115652
+Hyporhygma sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,,,Chironomidae,,facultative,,,129520
+Ilyodrilus sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68660
+Ilyodrilus templetoni,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68662
+Ironoquia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,3,shr,125,Trichoptera,,intolerant,,,116382
+Ischnura sp.,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,9,prd,"83,122",Insects-other,,tolerant,,,102078
+Ischnura sp. 1,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,9,prd,"83,122",Insects-other,,tolerant,,,102078
+Ischnura sp. 2,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,9,prd,"83,122",Insects-other,,tolerant,,,102078
+Ischnura sp. 3,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,9,prd,"83,122",Insects-other,,tolerant,,,102078
+Ischnura sp. 4,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,9,prd,"83,122",Insects-other,,tolerant,,,102078
+Ischnura sp. 5,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,9,prd,"83,122",Insects-other,,tolerant,,,102078
+Isochaetides freyi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68810
+Isochaetides sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68808
+Isogenoides hansoni,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,0,prd,"114,86",Plecoptera,,intolerant,,,568754
+Isogenoides sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,0,prd,"114,86",Plecoptera,,intolerant,,,103124
+Isonychia bicolor,ARTHROPODA,INSECTA,EPHEMEROPTERA,Isonychiidae,,2,c-f,"83,64",Ephemeroptera,Isonychia sp.,intolerant,5,2,101045
+Isonychia obscura,ARTHROPODA,INSECTA,EPHEMEROPTERA,Isonychiidae,,2,c-f,"83,64",Ephemeroptera,"Isonychia bicolor,Isonychia sp.",intolerant,,,101054
+Isonychia sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Isonychiidae,,2,c-f,83,Ephemeroptera,,intolerant,,,101041
+Isoperla frisoni,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,55,Plecoptera,,intolerant,,,103031
+Isoperla holochlora,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,55,Plecoptera,,intolerant,,,103020
+Isoperla marlynia,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,55,Plecoptera,,intolerant,,,103023
+Isoperla namata,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,55,Plecoptera,,intolerant,,,103017
+Isoperla nana,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,55,Plecoptera,,intolerant,,,103032
+Isoperla sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,"114,113",Plecoptera,,intolerant,,,102995
+Isoperla transmarina,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,55,Plecoptera,,intolerant,,,103036
+Isotomurus sp.,ARTHROPODA,INSECTA,COLLEMBOLA,Isotomidae,,5,c-g,83,Other,Isotomurus palustris,facultative,,,99246
+Iswaeon anoka,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,2,scr,"83,34",Ephemeroptera,Heterocloeon anoka,facultative,,,776948
+Ithytrichia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,4,scr,125,Trichoptera,,intolerant,,,115823
+Krenopelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,83,Chironomidae,,intolerant,,,128170
+Krenosmittia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,1,c-g,"124,83",Chironomidae,,intolerant,,,128771
+Labrundinia nr. virescens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,7,prd,97,Chironomidae,,facultative,,,128182
+Labrundinia pilosella,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,7,prd,97,Chironomidae,Labrundinia floridana,facultative,,,128178
+Labrundinia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,7,prd,97,Chironomidae,,facultative,,,128173
+Laccobius sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,prd,"83,123",Coleoptera,,facultative,,,112858
+Laccophilus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,,5,prd,"83,123",Coleoptera,,facultative,,,112278
+Laevapex fuscus,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Ancylidae,,6,scr,,Mollusca,,facultative,,,76577
+Lampsilis radiata,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,79994
+Lampsilis sp.,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,79986
+Lanthus parvulus,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,5,prd,,Insects-other,,facultative,,,101768
+Lanthus sp.,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,5,prd,"83,122",Insects-other,,facultative,,,101766
+Lanthus vernalis,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,5,prd,,Insects-other,,facultative,,,101769
+Larsia canadensis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"11,65",Chironomidae,,facultative,,,128185
+Larsia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"11,65",Chironomidae,,facultative,,,128183
+Lauterborniella agrayloides,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129526
+Lauterborniella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129525
+Lebertia sp.,ARTHROPODA,ARACHNOIDEA,,Lebertiidae,,6,prd,108,Other,,facultative,,,83034
+Lepidostoma sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Lepidostomatidae,,1,shr,125,Trichoptera,,intolerant,2,0,116794
+Leptocerus americanus,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,4,shr,125,Trichoptera,,intolerant,,,116678
+Leptocerus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,4,shr,125,Trichoptera,,intolerant,,,116677
+Leptophlebia sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,4,c-g,83,Ephemeroptera,,intolerant,,,101148
+Lestes sp.,ARTHROPODA,INSECTA,ODONATA,Lestidae,,6,prd,"83,122",Insects-other,,facultative,,,102061
+Leucotrichia pictipes,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,Hydroptilinae,6,scr,,Trichoptera,,facultative,,,115631
+Leucotrichia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,125,Trichoptera,,facultative,6,2,115630
+Leucrocuta sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,1,scr,"83,43",Ephemeroptera,Heptagenia juno,intolerant,1,3,100676
+Leuctra ferruginea,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,53,Plecoptera,,intolerant,,,102850
+Leuctra maria,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,53,Plecoptera,,intolerant,,,102873
+Leuctra sp.,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,"83,114",Plecoptera,,intolerant,,,102844
+Leuctra tenuis,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,53,Plecoptera,,intolerant,,,102853
+Leuctra truncata,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,53,Plecoptera,,intolerant,,,102868
+Limnephilus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,3,shr,125,Trichoptera,,intolerant,,,116069
+Limnesia sp.,ARTHROPODA,ARACHNOIDEA,,Limnesidae,,6,prd,108,Other,,facultative,,,83051
+Limnochares sp.,ARTHROPODA,ARACHNOIDEA,,Limnocharidae,,6,prd,108,Other,,facultative,,,83146
+Limnodrilus cervix,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68652
+Limnodrilus claparedeianus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68654
+Limnodrilus hoffmeisteri,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68639
+Limnodrilus profundicola,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68649
+Limnodrilus sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68638
+Limnodrilus udekemianus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68644
+Limnophila sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,3,prd,83,Insects-other,,intolerant,,,120164
+Limnophyes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,"124,83",Chironomidae,"Metriocnemus sp., Eukiefferiella sp. 8",tolerant,,,128776
+Limonia sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,6,shr,"83,25",Insects-other,,facultative,,,119704
+Lirceus sp.,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,126,Crustacea,,tolerant,,,92666
+Litobrancha recurvata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,2,c-g,72,Ephemeroptera,,intolerant,,,101567
+Litobrancha sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,2,c-g,83,Ephemeroptera,,intolerant,,,101566
+Lopescladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,,intolerant,,,128811
+Lumbriculus sp.,ANNELIDA,OLIGOCHAETA,LUMBRICULIDA,Lumbriculidae,,5,c-g,18,Oligochaeta,,tolerant,,,68441
+Lumbriculus variegatus,ANNELIDA,OLIGOCHAETA,LUMBRICULIDA,Lumbriculidae,,5,c-g,18,Oligochaeta,,tolerant,,,68444
+Lymnaea sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76484
+Lymnaea stagnalis,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76487
+Lype diversa,ARTHROPODA,INSECTA,TRICHOPTERA,Psychomyiidae,,2,scr,125,Trichoptera,,intolerant,,,115392
+Lype sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Psychomyiidae,,2,scr,125,Trichoptera,,intolerant,,,115391
+Maccaffertium exiguum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,5,scr,9,Ephemeroptera,Stenonema exiguum,facultative,,,100514
+Maccaffertium ithaca,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,3,scr,9,Ephemeroptera,Stenonema ithaca,intolerant,,,100527
+Maccaffertium luteum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,9,Ephemeroptera,Stenonema luteum,intolerant,,,100529
+Maccaffertium mediopunctatum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,3,scr,9,Ephemeroptera,Stenonema mediopunctatum,intolerant,3,3,100530
+Maccaffertium meririvulanum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,2,scr,9,Ephemeroptera,Stenonema meririvulanum,intolerant,,,100531
+Maccaffertium mexicanum integrum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,9,Ephemeroptera,"Stenonema integrum, Stenonema ares, Stenonema  sp. 5, Stenonema mexicanum integrum",intolerant,,,698515
+Maccaffertium modestum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,1,scr,9,Ephemeroptera,"Stenonema annexum, Stenonema rubromaculatum, Stenonema sp. 6, Stenonema ares, Stenonema modestum",intolerant,2,5,100532
+Maccaffertium pudicum,Arthropoda,INSECTA,Ephemeroptera,Heptageniidae,,2,scr,9,Ephemeroptera,Stenonema pudicum,intolerant,,,100536
+Maccaffertium pulchellum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,3,scr,9,Ephemeroptera,"Stenonema sp. 1, Stenonema pulchellum",intolerant,,,698241
+Maccaffertium sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,5,scr,9,Ephemeroptera,,facultative,,,697957
+Maccaffertium terminatum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,4,scr,9,Ephemeroptera,"Stenonema bipunctatum, Stenonema ares, Stenonema sp. 1, Stenonema terminatum",intolerant,2,3,100542
+Maccaffertium vicarium,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,2,scr,9,Ephemeroptera,"Stenonema fuscum, Stenonema sp. 7, Stenonema vicarium",intolerant,6,7,100548
+Macromia sp.,ARTHROPODA,INSECTA,ODONATA,Macromiidae,,2,prd,"83,122",Insects-other,,intolerant,,,101918
+Macronychus glabratus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,c-g,19,Coleoptera,,facultative,,,114213
+Macronychus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,c-g,19,Coleoptera,,facultative,,,114212
+Macropelopia decedens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,9,prd,92,Chironomidae,Macropelopia sp.,tolerant,,,128037
+Macropelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chrionomidae,Tanypodinae,9,prd,92,Chironomidae,,tolerant,,,128034
+Macrostemum carolina,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,3,c-f,"125,98",Trichoptera,Macronema carolina,intolerant,7,2,115608
+Macrostemum sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,3,c-f,125,Trichoptera,Macronema sp.,intolerant,4,2,115603
+Macrostemum zebratum,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,3,c-f,"125,98",Trichoptera,Macronema zebratum,intolerant,,,115606
+Malirekus iroquois,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,"114,86",Plecoptera,Malirekus hastatus,intolerant,,,103177
+Malirekus sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,83,Plecoptera,,intolerant,,,103174
+Manayunkia sp.,ANNELIDA,POLYCHAETA,SABELLIDA,Sabellidae,,6,c-g,83,Other,,facultative,,,68169
+Manayunkia speciosa,ANNELIDA,POLYCHAETA,SABELLIDA,Sabellidae,,6,c-g,83,Other,,facultative,,,68172
+Mayatrichia ayama,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,"125,98",Trichoptera,,facultative,,,115812
+Mayatrichia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,"125,98",Trichoptera,,facultative,,,115811
+Meropelopia americana,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"94,36",Chironomidae,Conchapelopia americana,facultative,,,128134
+Meropelopia flavifrons,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"94,36",Chironomidae,Conchapelopia flavifrons,facultative,,,128148
+Meropelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"94,36",Chironomidae,,facultative,,,128132
+Micrasema sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,"125,42",Trichoptera,,intolerant,,,116958
+Micrasema sp. 1,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,42,Trichoptera,,intolerant,1,0,116958
+Micrasema sp. 2,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,42,Trichoptera,,intolerant,,,116958
+Micrasema sp. 3,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,42,Trichoptera,,intolerant,,,116958
+Microchironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129532
+Microcylloepus pusillus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,3,scr,19,Coleoptera,,intolerant,,,114147
+Microcylloepus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,3,scr,19,Coleoptera,,intolerant,,,114146
+Micromenetus dilatatus,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,60,Mollusca,Menetus dilatatus,facultative,,,76648
+Micromenetus sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,60,Mollusca,,facultative,,,573260
+Micropsectra aristata gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,102,Chironomidae,"Micropsectra nr. curvicornis, Micropsectra sp. 3B, Micropsectra sp. 6",facultative,,,
+Micropsectra deflecta,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,87,Chironomidae,"Micropsectra nr. deflecta, Micropsectra sp. 2",facultative,,,129898
+Micropsectra dives gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,78,Chironomidae,Micropsectra sp.,intolerant,6,9,129900
+Micropsectra notescens gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-f,101,Chironomidae,"Micropsectra nr. brunnipes, Micropsectra sp. 5",facultative,,,
+Micropsectra nr. sp. B,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,36,Chironomidae,,intolerant,,,129890
+Micropsectra polita,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-f,78,Chironomidae,"Micropsectra polita?, Micropsectra sp. 3",facultative,0,7,129913
+Micropsectra sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-f,83,Chironomidae,,facultative,3,1,129890
+Micropsectra/Tanytarsus Complex,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,"36,78,87",Chironomidae,,facultative,,,129890
+Microtendipes pedellus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,124,Chironomidae,"Microtendipes caelum, Microtendipes sp. 2, Microtendipes cauducus",facultative,7,7,129541
+Microtendipes rydalensis gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,124,Chironomidae,Microtendipes sp. 1,intolerant,2,1,129547
+Microtendipes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-f,124,Chironomidae,,facultative,,,129535
+Mideopsis sp.,ARTHROPODA,ARACHNOIDEA,,Mideopsidae,,6,prd,108,Other,,facultative,,,83479
+Molanna sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Molannidae,,6,scr,125,Trichoptera,,facultative,,,116474
+Molophilus sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,4,shr,,Insects-other,,intolerant,,,120758
+Monoculodes edwardsi,ARTHROPODA,CRUSTACEA,AMPHIPODA,Oedicerotidae,,5,c-g,17,Crustacea,,facultative,,,94539
+Monoculodes sp.,ARTHROPODA,CRUSTACEA,AMPHIPODA,Oedicerotidae,,5,c-g,17,Crustacea,,facultative,,,94519
+Monodiamesa sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,7,c-g,36,Chironomidae,Monodiamesa dipectinata,facultative,,,128440
+Musculium partumeium,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81432
+Musculium sp.,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,83,Mollusca,,facultative,,,81427
+Musculium transversum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,Musculium sp.,facultative,,,81428
+Mystacides alafimbriata,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,4,c-g,129,Trichoptera,,intolerant,,,116603
+Mystacides sepulchralis,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,4,c-g,129,Trichoptera,,intolerant,,,116599
+Mystacides sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,4,c-g,129,Trichoptera,,intolerant,,,116598
+Nais barbata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68947
+Nais behningi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68949
+Nais bretscheri,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68961
+Nais communis,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68950
+Nais elinguis,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68952
+Nais pardalis,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68954
+Nais simplex,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68957
+Nais sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,Nais spp.,tolerant,,,68946
+Nais variabilis,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,"18,83",Oligochaeta,,tolerant,5,0,68959
+Nanocladius (Nanocladius) balticus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,,6,c-g,100,Chironomidae,,facultative,,,128866
+Nanocladius (Plecopt.) branchicolus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,3,prd,"36,33",Chironomidae,Nanocladius (Plecopteracoluthus) sp.,intolerant,,,128851
+Nanocladius (Plecopteracoluthus) downesi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,3,prd,36,Chironomidae,Nanocladius (Plecopteracoluthus) sp.,intolerant,,,128855
+Nanocladius (Plecopteracoluthus) sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,3,prd,124,Chironomidae,,intolerant,,,128844
+Nanocladius (Plecopteracoluthus) sp. 5,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,124,Chironomidae,,facultative,,,128844
+Nanocladius alternantherae?,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,,facultative,,,128848
+Nanocladius crassicornus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,Psectrocladius sp. 1,facultative,,,128852
+Nanocladius distinctus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,Psectrocladius sp. 1,facultative,,,128853
+Nanocladius minimus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,Psectrocladius sp. 1,facultative,,,128859
+Nanocladius nr. balticus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,"Acamptocladius sp., Phycoidella sp., Psectrocladius sp. 5, Cardiocladius sp. 2",facultative,,,128866
+Nanocladius rectinervis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,Psectrocladius sp. 1,facultative,,,128866
+Nanocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,100,Chironomidae,Psectrocladius sp. 1,facultative,,,128844
+Nanocladius spiniplenus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,100,Chironomidae,Psectrocladius sp. 1,facultative,,,128862
+Natarsia baltimorea,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,"92,36",Chironomidae,Natarsia baltimoreus,tolerant,,,128071
+Natarsia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,92,Chironomidae,,tolerant,,,128070
+Natarsia sp. A,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,92,Chironomidae,,tolerant,,,128070
+Nectopsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,3,shr,"125,50",Trichoptera,Leptocella sp.,intolerant,,,116651
+Nemotaulius hostilis,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,3,scr,125,Trichoptera,,intolerant,,,116434
+Nemotaulius sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,3,scr,125,Trichoptera,,intolerant,,,116432
+Nemotelus sp.,ARTHROPODA,INSECTA,DIPTERA,Stratiomyidae,,7,c-g,"83, 59",Insects-other,,facultative,,,130694
+Nemoura sp.,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,1,shr,"83,114",Plecoptera,,intolerant,,,102526
+Neoperla sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,3,prd,"83,114",Plecoptera,Neoperla clymene,intolerant,5,5,102942
+Neophylax concinnus,ARTHROPODA,INSECTA,TRICHOPTERA,Uenoidae,,3,scr,39,Trichoptera,,intolerant,,,116047
+Neophylax fuscus,ARTHROPODA,INSECTA,TRICHOPTERA,Uenoidae,,3,scr,39,Trichoptera,,intolerant,,,116049
+Neophylax oligius,Arthropoda,INSECTA,TRICHOPTERA,Uenoidae,,3,scr,125,Trichoptera,,intolerant,,,116057
+Neophylax sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Uenoidae,,3,scr,125,Trichoptera,,intolerant,,,116046
+Neoplasta sp.,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,83,Insects-other,,facultative,,,136352
+Neoplea sp.,ARTHROPODA,INSECTA,HEMIPTERA,Pleidae,,8,prd,83,Insects-other,,tolerant,,,103603
+Neoporus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,Hydroporinae,5,prd,,Coleoptera,,facultative,,,728252
+Neostempellina reissi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,"Stempellina sp. 1, Stempellina wirthi, Stempellina sp. 2, Constempellina sp. 3",intolerant,,,
+Neostempellina sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,,intolerant,,,
+Neotrichia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,2,scr,125,Trichoptera,,intolerant,,,115833
+Neureclipsis bimaculata,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,7,c-f,125,Trichoptera,,facultative,,,117096
+Neureclipsis sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,7,c-f,125,Trichoptera,,facultative,3,1,117095
+Neurocordulia sp.,ARTHROPODA,INSECTA,ODONATA,Corduliidae,,2,prd,"83,122",Insects-other,,intolerant,,,101934
+Nigronia serricornis,ARTHROPODA,INSECTA,MEGALOPTERA,Corydalidae,,4,prd,"83,76",Insects-other,Nigronia sp.,intolerant,10,8,115031
+Nilotanypus fimbriatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,96,Chironomidae,"Nilotanypus sp. 1, Pentaneura sp. 3",tolerant,,,128203
+Nilotanypus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,96,Chironomidae,Pentaneura sp. 3,facultative,,,128202
+Nilothauma babiyi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,106,Chironomidae,"Nilothauma sp., Demicryptochironomus sp. 1",intolerant,,,129549
+Nilothauma sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,106,Chironomidae,,intolerant,,,129548
+Nixe (Nixe) sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,2,scr,"83,43",Ephemeroptera,,intolerant,1,5,100692
+Nyctiophylax celta,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,5,prd,"125,98",Trichoptera,"Nyctiophylax vestitus, Psychomyiid Genus B",facultative,,,117107
+Nyctiophylax moestus,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,5,prd,"125,98",Trichoptera,"Nyctiophylax sp. A, Psychomyiid Genus A",facultative,,,117112
+Nyctiophylax sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,5,prd,"125,98",Trichoptera,,facultative,,,117104
+Nymphomyia sp.,ARTHROPODA,INSECTA,DIPTERA,Nymphomyiidae,,5,c-g,83,Insects-other,,facultative,,,
+Nymphula sp.,ARTHROPODA,INSECTA,LEPIDOPTERA,Pyralidae,,7,shr,"83,66",Insects-other,,facultative,,,117659
+Odontomesa fulva,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,5,c-g,"83,36",Chironomidae,,facultative,,,128447
+Odontomesa sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,5,c-g,"83,36",Chironomidae,,facultative,,,128446
+Odontomyia sp.,ARTHROPODA,INSECTA,DIPTERA,Stratiomyidae,,7,c-g,,Insects-other,,facultative,,,130573
+Oecetis avara,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,5,prd,44,Trichoptera,,facultative,,,116608
+Oecetis cinerascens,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,5,prd,44,Trichoptera,,facultative,,,116609
+Oecetis inconspicua,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,5,prd,44,Trichoptera,,facultative,,,116613
+Oecetis sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,5,prd,125,Trichoptera,,facultative,,,116607
+Oligostomis sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Phryganeidae,,2,prd,125,Trichoptera,,intolerant,,,115900
+Ophidonais serpentina,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68996
+Ophidonais sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68995
+Ophiogomphus carolus,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,3,prd,"83, 122",Insects-other,,intolerant,,,101745
+Ophiogomphus mainensis,ARTHROPODA,INSECTA,Odonata,Gomphidae,,6,prd,"83, 122",Insects-Other,,facultative,,,101739
+Ophiogomphus sp.,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,3,prd,"83,122",Insects-other,,intolerant,1,3,101738
+Optioservus cryophilus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,,,114183
+Optioservus fastiditus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,6,7,114190
+Optioservus immunis,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,,,114184
+Optioservus nr. sandersoni,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,,,114189
+Optioservus ovalis,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,9,4,114185
+Optioservus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,"83,19",Coleoptera,,intolerant,7,8,114177
+Optioservus trivittatus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,7,6,114186
+Orconectes obscurus,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,,,97466
+Orconectes propinquus,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,,,97473
+Orconectes rusticus,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,,,97424
+Orconectes sp.,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,,,97421
+Oreogeton sp.,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,83,Insects-other,,facultative,,,136377
+Ormosia sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,4,c-g,83,Insects-other,,intolerant,,,120830
+Orthocladiinae sp. C,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,36,Chironomidae,,facultative,,,128457
+Orthocladius (Eudactylocladius) sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,,,568517
+Orthocladius (Euorthoclad.) luteipes,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"109,110",Chironomidae,"Orthocladius (Euorthocladius) Type I sp.,Orthocladius (Euorthoclad.Type III spp.,Eukiefferiella sp7",facultative,,,
+Orthocladius (Euorthoclad.) rivicola,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"109,110",Chironomidae,"Orthocladius (Euorthoclad.) Type I sp.,Orthocladius (Euorthoclad.) Type III spp.,Eukiefferiella sp7",facultative,,,
+Orthocladius (Euorthoclad.) rivulorum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"109,110",Chironomidae,Orthocladius (Euorthoclad.) Type II spp.,facultative,,,
+Orthocladius (Euorthoclad.) sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"109,110",Chironomidae,,facultative,,,568520
+Orthocladius (Symposiocladius) lignicola,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,124,Chironomidae,"Symposiocladius lignicola, Orthoclad Genus B acutilabis",facultative,,,
+Orthocladius annectens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,Cricotopus sp. 4,facultative,,,128878
+Orthocladius carlatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,,,128882
+Orthocladius curtiseta,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,,,128889
+Orthocladius dorenus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,36,Chironomidae,,facultative,,,128898
+Orthocladius dubitatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,36,Chironomidae,,facultative,,,128901
+Orthocladius nr. dentifer,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,3,7,128895
+Orthocladius nr. robacki,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,,,128929
+Orthocladius obumbratus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,"Orthocladius sp. 1, Orthocladius sp.",facultative,,,128923
+Orthocladius oliverei,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,,,128926
+Orthocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"124,83",Chironomidae,,facultative,,,128874
+Orthocladius trigonolabis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,109,Chironomidae,,facultative,,,128934
+Orthocladius vaillanti,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,36,Chironomidae,,facultative,,,
+Orthotrichia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,shr,125,Trichoptera,,facultative,,,115828
+Ostrocerca sp.,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,2,shr,"83,114",Plecoptera,,intolerant,,,102622
+Oulimnius latiusculus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,Optioservus cryophilus,intolerant,,,114245
+Oulimnius nitidulus,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,,,114246
+Oulimnius sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,4,scr,19,Coleoptera,,intolerant,,,114244
+Oxyethira sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,3,c-g,125,Trichoptera,,intolerant,,,115779
+Pagastia orthogonia,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,1,c-g,"79,36",Chironomidae,"Pagastia sp. A, Pagastia sp.,  Pseudodiamesa sp. 1",intolerant,4,8,128402
+Pagastiella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,83,Chironomidae,,facultative,,,129561
+Palaeagapetus celsus,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,4,shr,125,Trichoptera,,intolerant,,,115851
+Palaeagapetus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,1,shr,125,Trichoptera,,intolerant,,,115849
+Paraboreochlus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Podonominae,1,c-g,124,Chironomidae,,intolerant,,,127977
+Paracapnia sp.,ARTHROPODA,INSECTA,PLECOPTERA,Capniidae,,1,shr,114,Plecoptera,,intolerant,,,102804
+Parachaetocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,2,c-g,"124,83",Chironomidae,,intolerant,,,128951
+Parachironomus abortivus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,prd,106,Chironomidae,Cryptochironomus abortivus,tolerant,,,129565
+Parachironomus carinatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,prd,106,Chironomidae,,tolerant,,,129569
+Parachironomus frequens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,prd,106,Chironomidae,"Parachironomus pectinatellae, Cryptochironomus sp. 2",tolerant,,,129579
+Parachironomus hirtalatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,prd,106,Chironomidae,,tolerant,,,129595
+Parachironomus potamogeton,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,prd,106,Chironomidae,,tolerant,,,129585
+Parachironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,10,prd,106,Chironomidae,,tolerant,,,129564
+Paracladopelma nais,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,58,Chironomidae,"Paracladopelma sp., Parachironomus nais, Cryptochironomus nais",facultative,,,129606
+Paracladopelma nereis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,58,Chironomidae,,facultative,,,129608
+Paracladopelma sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,58,Chironomidae,,facultative,,,129597
+Paracloeodes sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,9,scr,,Ephemeroptera,,tolerant,,,100899
+Paracricotopus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,,intolerant,,,128962
+Paragnetina immarginata,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,1,prd,"55,114",Plecoptera,,intolerant,1,2,102966
+Paragnetina media,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,4,prd,"55,114",Plecoptera,Acroneuria ruralis,intolerant,6,3,102968
+Paragnetina sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,2,prd,"55,114",Plecoptera,,intolerant,1,6,102962
+Parakiefferiella coronata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,"124,83",Chironomidae,,intolerant,,,128974
+Parakiefferiella nr. triquetra,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,36,Chironomidae,,intolerant,,,
+Parakiefferiella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,"Psectrocladius sp. 3, Psectrocladius sp. 3A, Psectrocladius sp. 3B, Psectrocladius sp. 2A",intolerant,,,128968
+Paralauterborniella nigrohalteralis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,8,Chironomidae,,tolerant,,,129619
+Paralauterborniella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129616
+Paraleptophlebia adoptiva,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,24,Ephemeroptera,,intolerant,,,101203
+Paraleptophlebia debilis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,24,Ephemeroptera,,intolerant,,,101193
+Paraleptophlebia guttata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,24,Ephemeroptera,Paraleptophlebia sp.,intolerant,,,101211
+Paraleptophlebia moerens,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,24,Ephemeroptera,Paraleptophlebia sp.,intolerant,,,101217
+Paraleptophlebia mollis,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,24,Ephemeroptera,Paraleptophlebia sp.,intolerant,2,1,101218
+Paraleptophlebia sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,83,Ephemeroptera,,intolerant,2,3,101187
+Paraleptophlebia volitans,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,1,c-g,24,Ephemeroptera,,intolerant,,,101199
+Paralimnophyes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,7,c-g,83,Chironomidae,,facultative,,,128976
+Paramerina sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,83,Chironomidae,Pentaneura sp. 2,facultative,,,128207
+Parametriocnemus lundbecki,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,106,Chironomidae,"Heterotrissocladius sp. 1, Trichocladius sp. 1",facultative,8,10,128982
+Parametriocnemus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,106,Chironomidae,,facultative,,,128978
+Paranais frici,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,61,Oligochaeta,,tolerant,,,68865
+Paranais sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,10,c-g,61,Oligochaeta,,tolerant,,,68862
+Paraphaenocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,83",Chironomidae,,intolerant,,,128989
+Parapoynx sp.,ARTHROPODA,INSECTA,LEPIDOPTERA,Pyralidae,,5,shr,"83,66",Insects-other,,facultative,,,117714
+Parapsyche apicalis,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,0,c-f,,Trichoptera,,intolerant,,,115557
+Parapsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,0,c-f,125,Trichoptera,,intolerant,,,115556
+Paratanytarsus confusus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,"Paratanytarsus nr. dissimilis, Paratanytarsus sp. B, Tanytarsus sp. 2",facultative,5,8,
+Paratanytarsus dimorphis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,"Cladotanytarsus sp. 3, Paratanytarsus sp. A, Paratanytarsus sp. 2,  Tanytarsus sp. 2",facultative,,,
+Paratanytarsus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,,facultative,,,129935
+Paratendipes albimanus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,106,Chironomidae,,facultative,,,129624
+Paratendipes sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,106,Chironomidae,,facultative,,,129623
+Paratendipes subequalis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,,6,c-g,106,Chironomidae,,facultative,,,
+Paratrichocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,"124,83",Chironomidae,Cricotopus reversus gr.,facultative,,,129005
+Parorthocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,,Chironomidae,,facultative,,,129011
+Pedicia sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,4,prd,83,Insects-other,,intolerant,,,121118
+Peloscolex ferox,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,6,c-g,"18,83",Oligochaeta,"Peloscolex sp., Spirosperma ferox",tolerant,,,68609
+Peloscolex sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,6,c-g,"18, 83",Oligochaeta,,tolerant,,,68588
+Peltodytes sp.,ARTHROPODA,INSECTA,COLEOPTERA,Haliplidae,,5,shr,"83,123",Coleoptera,,facultative,,,111923
+Peltoperla sp.,ARTHROPODA,INSECTA,PLECOPTERA,Peltoperlidae,Peltoperlinae,2,shr,,Plecoptera,,intolerant,,,102489
+Pentaneura inconspicua,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,"90,36",Chironomidae,,facultative,,,128216
+Pentaneura sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,83,Chironomidae,,facultative,0,1,128215
+Pericoma sp.,ARTHROPODA,INSECTA,DIPTERA,Psychodidae,,4,c-g,"83,117",Insects-other,,intolerant,,,125514
+Perlesta placida,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,4,prd,114,Plecoptera,,intolerant,,,103253
+Perlesta sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,4,prd,114,Plecoptera,Perlesta placida,intolerant,,,103251
+Perlesta sp. 1,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,4,prd,114,Plecoptera,Perlesta placida,intolerant,,,103251
+Perlesta sp. 2,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,4,prd,114,Plecoptera,Perlesta placida,intolerant,,,103251
+Petrophila sp.,ARTHROPODA,INSECTA,LEPIDOPTERA,Pyralidae,,5,scr,"83,66",Insects-other,"Elophila sp.,Paragyractis sp.",facultative,5,3,117682
+Phaenopsectra dyari,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,,106,,,,,,129640
+Phaenopsectra flavipes,Arthropoda,Insecta,Diptera,Chironomidae,Chironominae,7,,36,,,,,,129642
+Phaenopsectra obdiens gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,scr,106,Chironomidae,"Phaenopsectra sp. 1, Phaenopsectra sp., Phaenopsectra dyari?",facultative,4,5,129647
+Phaenopsectra punctipes gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,scr,106,Chironomidae,"Tribelos sp. 2, Phaenopsectra flavipes",facultative,,,129652
+Phaenopsectra sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,scr,124,Chironomidae,,facultative,,,129637
+Phryganea sp.,ARTHROPODA,INSECTA,Trichoptera,Phryganeidae,,4,c-g,,Trichoptera,,facultative,,,115892
+Phylocentropus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Dipseudopsidae,,5,c-f,125,Trichoptera,,facultative,,,115361
+Physella ancillaria,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Physidae,,8,c-g,"83,60",Mollusca,,tolerant,,,76701
+Physella gyrina,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Physidae,,8,c-g,"83,60",Mollusca,"Physa gyrina, Physa elliptica, Physa sayii",tolerant,,,76735
+Physella heterostropha,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Physidae,,8,c-g,"83,60",Mollusca,Physa heterostropha,tolerant,,,76736
+Physella integra,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Physidae,,8,c-g,"83,60",Mollusca,Physa integra,tolerant,,,76738
+Physella sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Physidae,,8,c-g,"83,60",Mollusca,Physa sp.,tolerant,8,7,76698
+Piguetiella michiganensis,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,18,Oligochaeta,,facultative,,,68994
+Piguetiella sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,18,Oligochaeta,,facultative,,,68992
+Pilaria sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,7,prd,25,Insects-other,,facultative,,,120335
+Pisidium amnicum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81401
+Pisidium casertanum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81405
+Pisidium compressum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81406
+Pisidium sp.,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,83,Mollusca,,facultative,8,10,81400
+Pisidium variabile,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81418
+Placobdella montifera,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69368
+Placobdella sp.,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69363
+Platycentropus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,4,shr,125,Trichoptera,,intolerant,,,116407
+Plauditus cestus,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,,Ephemeroptera,,intolerant,,,568607
+Plauditus dubius,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,67,Ephemeroptera,,intolerant,,,609559
+Plauditus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,4,c-g,67,Ephemeroptera,,intolerant,2,6,568553
+Pleurocera acuta,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Pleuroceridae,,6,scr,"60,83",Mollusca,,facultative,,,71550
+Pleurocera sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Pleuroceridae,,6,scr,"60,83",Mollusca,,facultative,,,71549
+Polycentropus remotus,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,6,prd,"125,98",Trichoptera,,facultative,,,117064
+Polycentropus sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,6,prd,125,Trichoptera,,facultative,4,2,117044
+Polypedilum (Tripodura) sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,,,129657
+Polypedilum aviceps,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,shr,69,Chironomidae,,facultative,5,7,129666
+Polypedilum bergi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,shr,"111,69",Chironomidae,,facultative,,,129726
+Polypedilum braseniae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,3,c-g,,Chironomidae,,intolerant,,,129667
+Polypedilum digitifer,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,shr,"69,111",Chironomidae,,facultative,,,129675
+Polypedilum fallax gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,Polypedilum sp. 3,facultative,,,129676
+Polypedilum flavum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,"Polypedilum convictum, Polypedilum sp. 1",facultative,9,7,
+Polypedilum griseopunctatum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,111,Chironomidae,,facultative,,,129682
+Polypedilum halterale gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,"69,36",Chironomidae,Polypedilum halterale,facultative,,,129684
+Polypedilum illinoense,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,shr,69,Chironomidae,Polypedilum sp. 1,facultative,10,7,129686
+Polypedilum laetum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,7,6,129692
+Polypedilum obtusum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,,,129697
+Polypedilum ontario,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,3,shr,69,Chironomidae,,facultative,,,129698
+Polypedilum scalaenum gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,"Polypedilum scalaenum, Polypedilum nr. scalaenum, Polypedilum sp. 4",facultative,10,6,129708
+Polypedilum simulans gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,,,129711
+Polypedilum sordens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,,,129712
+Polypedilum sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,,,129657
+Polypedilum trigonum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,shr,36,Chironomidae,,facultative,,,129718
+Polypedilum tritum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,shr,69,Chironomidae,,facultative,,,129719
+Polypedilum tuberculum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,shr,69,Chironomidae,,facultative,,,
+Pomatiopsis lapidaria,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,8,scr,"51,22",Mollusca,,tolerant,,,70737
+Pomatiopsis sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,8,scr,"51,22",Mollusca,,tolerant,,,70736
+Potamothrix moldaviensis,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68789
+Potamothrix sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,8,c-g,18,Oligochaeta,,tolerant,,,68786
+Potamothrix vejdovskyi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,8,c-g,18,Oligochaeta,,tolerant,,,68790
+Potamyia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,5,c-f,125,Trichoptera,,facultative,,,115551
+Potthastia gaedii gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,2,c-g,"124,36",Chironomidae,"Potthastia gaedii, Smittia sp., Sympotthastia sp.",intolerant,9,10,128409
+Potthastia longimana gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,2,c-g,"105,36",Chironomidae,"Potthastia longimana, Potthastia sp.",intolerant,,,128412
+Potthastia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,2,c-g,36,Chironomidae,,intolerant,,,128408
+Pristina aequiseta,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,Pristina foreli,tolerant,,,68879
+Pristina breviseta,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68880
+Pristina leidyi,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68894
+Pristina menoni,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68886
+Pristina sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68876
+Pristina synclites,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68895
+Pristinella jenkinae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,69030
+Pristinella osborni,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,"Pristina osborni, Pristina sima, Naidium sp., Naidium sp. 1",tolerant,,,69026
+Pristinella sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,69024
+Probezzia sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127729
+Probezzia sp. 1,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127729
+Probezzia sp. 2,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,127729
+Probythinella lacustris,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,8,scr,"60,83",Mollusca,,tolerant,,,70508
+Probythinella sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,8,scr,"60,83",Mollusca,,tolerant,,,70505
+Procladius (Holotanypus) sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,7,prd,36,Chironomidae,,facultative,,,128277
+Procladius bellus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,9,prd,93,Chironomidae,,tolerant,,,128285
+Procladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,9,prd,93,Chironomidae,,tolerant,,,128277
+Procladius sublettei,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,9,prd,93,Chironomidae,Procladius sp.,tolerant,,,128316
+Procloeon rivulare,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,83,Ephemeroptera,,facultative,,,609576
+Procloeon sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,83,Ephemeroptera,,facultative,,,206622
+Prodiamesa olivacea,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,8,c-g,124,Chironomidae,Prodiamesa sp. 1,tolerant,,,128454
+Prodiamesa sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,8,c-g,83,Chironomidae,,tolerant,,,128452
+Prodiamesa sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,8,c-g,83,Chironomidae,,tolerant,,,128452
+Promoresia elegans,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,2,scr,19,Coleoptera,Gonielmis dietrichi,intolerant,10,10,114230
+Promoresia sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,2,scr,"83,19",Coleoptera,,intolerant,,,114229
+Promoresia tardella,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,2,scr,19,Coleoptera,,intolerant,,,114231
+Prosimulium arvum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,130,Insects-other,Prosimulium hirtipes,intolerant,,,126707
+Prosimulium clandestinum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,130,Insects-other,,intolerant,,,
+Prosimulium fuscum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,130,Insects-other,,intolerant,,,126728
+Prosimulium magnum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,1,c-f,"115,128",Insects-other,,intolerant,,,126733
+Prosimulium rhizophorum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,"115,128",Insects-other,,intolerant,,,126746
+Prosimulium sp.,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,2,c-f,"115,128",Insects-other,,intolerant,,,126703
+Prostoia sp.,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,Nemourinae,2,shr,83,Plecoptera,,intolerant,,,102584
+Prostoma graecense,NEMERTEA,ENOPLA,HOPLONEMERTEA,Tetrastemmatidae,,8,prd,108,Other,,tolerant,2,7,57578
+Protoplasa fitchii,ARTHROPODA,INSECTA,DIPTERA,Tanyderidae,,3,c-g,83,Insects-Other,,intolerant,,,125801
+Protoplasa sp.,ARTHROPODA,INSECTA,DIPTERA,Tanyderidae,,3,c-g,83,Insects-other,,intolerant,,,125800
+Protoptila sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Glossosomatidae,,1,scr,125,Trichoptera,,intolerant,,,115221
+Psectrocladius (Allopsectrocladius) pilosus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,36,Chironomidae,,,,,129038
+Psectrocladius (Monosectrocladius) sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,,tolerant,,,129018
+Psectrocladius (Ps.) cf. octomaculatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,124,Chironomidae,,facultative,,,553085
+Psectrocladius dilatatus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,,tolerant,,,129048
+Psectrocladius flavus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,,8,c-g,124,Chironomidae,,tolerant,,,129029
+Psectrocladius nigrus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,,tolerant,,,129035
+Psectrocladius octomaculatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,36,Chironomidae,,,,,553085
+Psectrocladius psilopterus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,"Psectrocladius sp. 2, Psectrocladius sp. B",tolerant,,,129050
+Psectrocladius sordidellus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,,tolerant,,,129051
+Psectrocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,,tolerant,,,129018
+Psectrocladius vernalis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,8,c-g,124,Chironomidae,,tolerant,,,129045
+Psectrotanypus dyari,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,10,prd,92,Chironomidae,,tolerant,,,128056
+Psectrotanypus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,10,prd,92,Chironomidae,,tolerant,,,128048
+Psephenus herricki,ARTHROPODA,INSECTA,COLEOPTERA,Psephenidae,,4,scr,19,Coleoptera,,intolerant,10,9,114072
+Psephenus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Psephenidae,,4,scr,"83,19",Coleoptera,,intolerant,3,4,114070
+Pseudochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,100,Chironomidae,,facultative,,,129851
+Pseudochironomus sp. 1,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,100,Chironomidae,,facultative,,,129851
+Pseudochironomus sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,100,Chironomidae,,facultative,,,129851
+Pseudochironomus sp. 3,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,100,Chironomidae,,facultative,,,129851
+Pseudocloeon propinquum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,"74,120",Ephemeroptera,"Labiobaetis propinquus, Baetis propinquus",facultative,,,568681
+Pseudocloeon sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,83,Ephemeroptera,,facultative,,,100771
+Pseudodiamesa sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,6,c-g,,Chironomidae,,facultative,,,128416
+Pseudokiefferiella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,1,c-g,124,Chironomidae,,intolerant,,,128423
+Pseudolimnophila sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,2,prd,"83,25",Insects-other,,intolerant,,,120365
+Pseudorthocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,0,c-g,"124,83",Chironomidae,,intolerant,,,129052
+Pseudostenophylax sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,0,shr,125,Trichoptera,,intolerant,,,115989
+Pseudosuccinea columella,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76529
+Pseudosuccinea sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76528
+Psilometriocnemus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,36",Chironomidae,,intolerant,,,129083
+Psilometriocnemus triannulatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,"124,36",Chironomidae,Psilometriocnemus sp.,intolerant,,,129084
+Psilotreta frontalis,ARTHROPODA,INSECTA,TRICHOPTERA,Odontoceridae,,0,scr,125,Trichoptera,,intolerant,,,116498
+Psilotreta labida,ARTHROPODA,INSECTA,TRICHOPTERA,Odontoceridae,,0,scr,125,Trichoptera,,intolerant,,,116500
+Psilotreta sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Odontoceridae,,0,scr,125,Trichoptera,,intolerant,,,116497
+Psychoda sp.,ARTHROPODA,INSECTA,DIPTERA,Psychodidae,,10,c-g,"117,127",Insects-other,,tolerant,,,125468
+Psychoglypha sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,0,c-g,125,Trichoptera,,intolerant,,,115974
+Psychomyia flavida,ARTHROPODA,INSECTA,TRICHOPTERA,Psychomyiidae,,2,c-g,"125,41",Trichoptera,Psychomyia sp.,intolerant,1,0,115341
+Psychomyia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Psychomyiidae,,2,c-g,"125,41",Trichoptera,,intolerant,,,115335
+Pteronarcys biloba,ARTHROPODA,INSECTA,PLECOPTERA,Pteronarcidae,,0,shr,30,Plecoptera,Allonarcys biloba,intolerant,,,102474
+Pteronarcys comstocki,ARTHROPODA,INSECTA,PLECOPTERA,Pteronarcidae,,0,shr,,Plecoptera,,intolerant,,,102476
+Pteronarcys dorsata,ARTHROPODA,INSECTA,PLECOPTERA,Pteronarcidae,,0,shr,30,Plecoptera,,intolerant,,,102478
+Pteronarcys proteus,ARTHROPODA,INSECTA,PLECOPTERA,Pteronarcidae,,0,shr,30,Plecoptera,,intolerant,,,102480
+Pteronarcys sp.,ARTHROPODA,INSECTA,PLECOPTERA,Pteronarcidae,,0,shr,"83,114",Plecoptera,,intolerant,,,102471
+Ptilostomis sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Phryganeidae,,5,shr,125,Trichoptera,,facultative,,,115868
+Ptychoptera sp.,ARTHROPODA,INSECTA,DIPTERA,Ptychopteridae,,9,c-g,83,Insects-other,,tolerant,,,125786
+Pycnopsyche sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,4,shr,125,Trichoptera,,intolerant,,,116409
+Pyganodon cataracta,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,568176
+Pyganodon sp.,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,567112
+Quistadrilus multisetosus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,974772
+Quistadrilus sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,974307
+Radix auricularia,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76526
+Radix sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76525
+Rasvena sp.,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,0,c-g,114,Plecoptera,,intolerant,,,103270
+Rasvena terna,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,0,c-g,114,Plecoptera,Chloroperla sp.,intolerant,,,103271
+Remenus sp.,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,Perlodinae,2,prd,"83,86",Plecoptera,,intolerant,,,103099
+Rheocricotopus eminellobus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,3,c-g,,Chironomidae,,intolerant,,,129096
+Rheocricotopus robacki,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,106,Chironomidae,Trichocladius sp. 2,facultative,4,4,129102
+Rheocricotopus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,124,Chironomidae,,facultative,,,129086
+Rheocricotopus sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,124,Chironomidae,,facultative,,,129086
+Rheocricotopus sp. 4,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,124,Chironomidae,,facultative,,,129086
+Rheocricotopus tuberculatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,26,Chironomidae,Orthoclad Genus A,facultative,,,129105
+Rheopelopia acra gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,"94,36",Chironomidae,Rheopelopia perda?,intolerant,,,128227
+Rheopelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,94,Chironomidae,,intolerant,,,128226
+Rheopelopia sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,94,Chironomidae,,intolerant,,,128226
+Rheopelopia sp. 3,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,94,Chironomidae,,intolerant,,,128226
+Rheotanytarsus exiguus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,106,Chironomidae,"Rheotanytarsus sp. 1, Tanytarsus sp. 1",facultative,6,5,129957
+Rheotanytarsus pellucidus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,"106,36",Chironomidae,"Rheotanytarsus distinctissimus gr., Tanytarsus sp. 4",intolerant,3,2,129959
+Rheotanytarsus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,106,Chironomidae,,facultative,,,129952
+Rhithrogena sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,0,c-g,83,Ephemeroptera,,intolerant,0,1,100572
+Rhyacodrilus sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,18,Oligochaeta,,tolerant,,,68839
+Rhyacodrilus subterraneus,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,18,Oligochaeta,,tolerant,,,974773
+Rhyacophila acropedes,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,,intolerant,,,115151
+Rhyacophila acutiloba,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,,Trichoptera,,intolerant,,,115160
+Rhyacophila atrata,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,0,prd,40,Trichoptera,,intolerant,,,115146
+Rhyacophila brunnea,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,,Trichoptera,,intolerant,,,115151
+Rhyacophila carolina?,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,,intolerant,,,115131
+Rhyacophila carpenteri?,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,Rhyacophila sp. 1,intolerant,,,115161
+Rhyacophila formosa,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,121,Trichoptera,Rhyacophila sp. 6; Rhyacophila sp. 4,intolerant,,,115203
+Rhyacophila fuscula,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,0,prd,40,Trichoptera,Rhyacophila sp. 2,intolerant,2,5,115133
+Rhyacophila glaberrima,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,,intolerant,,,115143
+Rhyacophila mainensis,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,Rhyacophila melita,intolerant,,,115206
+Rhyacophila manistee,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,,intolerant,,,115149
+Rhyacophila minor,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,0,prd,,Trichoptera,,intolerant,,,115147
+Rhyacophila nigrita,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,,intolerant,,,115138
+Rhyacophila sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,125,Trichoptera,,intolerant,0,1,115097
+Rhyacophila torva,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,40,Trichoptera,,intolerant,,,115144
+Ripistes parasita,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-f,"18,83",Oligochaeta,,tolerant,,,68964
+Ripistes sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-f,"18,83",Oligochaeta,,tolerant,,,68963
+Robackia claviger,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,100,Chironomidae,,intolerant,,,129731
+Robackia demeijerei,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,100,Chironomidae,,intolerant,,,129733
+Robackia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chrionominae,4,c-g,100,Chironomidae,,intolerant,,,129730
+Saetheria sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,58,Chironomidae,,intolerant,,,129735
+Saetheria tylus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,"58,124",Chironomidae,,intolerant,,,129737
+Sergentia? sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,49,Chironomidae,,facultative,,,129739
+Serratella deficiens,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,5,Ephemeroptera,"Ephemerella deficiens, Ephemerella sp. 1, Ephemerella sp.",intolerant,5,2,101396
+Serratella serrata,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,5,Ephemeroptera,"Ephemerella serrata, Ephemerella sp. 5",intolerant,1,0,185976
+Serratella serratoides,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,5,Ephemeroptera,"Ephemerella serratoides, Ephemerella sp. 1, Ephemerella sp.",intolerant,0,1,185975
+Serratella sordida,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,5,Ephemeroptera,Ephemerella sordida,intolerant,,,101402
+Serratella sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,5,Ephemeroptera,,intolerant,1,1,101395
+Setodes sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,2,c-g,125,Trichoptera,,intolerant,,,116548
+Shipsa rotunda,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,2,shr,114,Plecoptera,,intolerant,,,102641
+Shipsa sp.,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,2,shr,114,Plecoptera,,intolerant,,,102640
+Sialis sp.,ARTHROPODA,INSECTA,MEGALOPTERA,Sialidae,,4,prd,"83,37",Insects-other,,facultative,5,6,115002
+Simulium aureum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,7,c-f,"115,128",Insects-other,,facultative,,,126918
+Simulium decorum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,7,c-f,"115,128",Insects-other,,facultative,,,126808
+Simulium fibrinflatum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,6,c-f,"115,128",Insects-other,,facultative,,,126820
+Simulium gouldingi,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,3,c-f,"115,128",Insects-other,,intolerant,,,126824
+Simulium jenningsi,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,4,c-f,"115,128",Insects-other,,intolerant,6,2,126832
+Simulium latipes,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,4,c-f,"115,128",Insects-other,,intolerant,,,126917
+Simulium parnassum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,7,c-f,"115,128",Insects-other,,facultative,,,126852
+Simulium pictipes,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,4,c-f,115,Insects-other,,intolerant,,,126856
+Simulium rugglesi,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,5,c-f,"115,128",Insects-other,,facultative,,,126872
+Simulium sp.,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,5,c-f,"115,128",Insects-other,,facultative,7,6,126774
+Simulium tuberosum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,4,c-f,"115,128",Insects-other,,intolerant,1,0,126883
+Simulium venustum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,5,c-f,"115,128",Insects-other,,facultative,,,126892
+Simulium vittatum,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,7,c-f,"115,128",Insects-other,,facultative,7,10,126903
+Siphlonurus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Siphlonuridae,,4,c-g,83,Ephemeroptera,,intolerant,,,100953
+Siphloplecton sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Metretopodidae,,2,c-g,"4,2",Ephemeroptera,,Intolerant,,,101079
+Slavina appendiculata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68856
+Slavina sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68855
+Smittia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,83,Chironomidae,,facultative,,,129110
+Soyedina sp.,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,2,c-g,83,Plecoptera,,intolerant,,,102556
+Sparbarus sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,"83,23",Ephemeroptera,,facultative,,,776922
+Specaria josinae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68985
+Specaria sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68984
+Sperchon sp.,ARTHROPODA,ARACHNOIDEA,,Sperchonidae,,6,prd,108,Other,,facultative,,,83006
+Sphaerium corneum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,Sphaerium sp.,facultative,,,81392
+Sphaerium rhomboideum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81396
+Sphaerium sp.,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,9,4,81391
+Sphaerium striatinum,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,"68,22",Mollusca,,facultative,,,81398
+Sphaeromais sp.,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,,,
+Spirosperma ferox,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,78,Oligochaeta,,tolerant,,,68610
+Spirosperma sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,6,c-g,"18,83",Oligochaeta,,tolerant,,,68780
+Stagnicola catascopium,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76538
+Stagnicola elodes,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,Lymnaea palustris,facultative,,,76542
+Stagnicola sp.,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,83,Mollusca,,facultative,,,76534
+Stegopterna sp.,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,1,c-f,"115,128",Insects-other,,intolerant,,,126761
+Stelechomyia perpulchra,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,"124,36",Chironomidae,Stelechomyia sp.,facultative,,,129744
+Stelechomyia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,"124,36",Chironomidae,,facultative,,,129743
+Stempellina johannseni,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,Constempellina sp. 2,intolerant,,,129963
+Stempellina nr. bausei,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,,intolerant,,,129968
+Stempellina nr. subglabripennis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,,intolerant,,,
+Stempellina sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,,intolerant,,,129962
+Stempellina sp. 4,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,,intolerant,,,129962
+Stempellina sp. 5,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,2,c-g,21,Chironomidae,,intolerant,,,129962
+Stempellinella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,21,Chironomidae,,intolerant,,,129969
+Stempellinella sp. 1,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,21,Chironomidae,,intolerant,,,129969
+Stempellinella sp. 2,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,21,Chironomidae,,intolerant,,,129969
+Stempellinella sp. 3,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-g,21,Chironomidae,,intolerant,,,129969
+Stenacron carolina,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,7,scr,,Ephemeroptera,,facultative,,,100735
+Stenacron interpunctatum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,7,scr,"83,9",Ephemeroptera,Stenonema sp. 2,facultative,7,7,100714
+Stenacron sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,7,scr,"83,9",Ephemeroptera,,facultative,,,100713
+Stenelmis bicarinata,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,"19,104",Coleoptera,Stenelmis markeli,facultative,,,114100
+Stenelmis cheryl,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,20,Coleoptera,,facultative,,,193723
+Stenelmis concinna,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,19,Coleoptera,,facultative,5,0,114101
+Stenelmis crenata,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,19,Coleoptera,,facultative,7,7,114102
+Stenelmis mera,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,19,Coleoptera,,facultative,,,114109
+Stenelmis musgravei,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,19,Coleoptera,Stenelmis quadrimaculata,facultative,,,114111
+Stenelmis sandersoni,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,19,Coleoptera,,facultative,,,114112
+Stenelmis sp.,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,"83,19",Coleoptera,,facultative,7,7,114095
+Stenelmis vittapennis,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,19,Coleoptera,,facultative,,,114115
+Stenochironomus hilaris,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,15,Chironomidae,,facultative,,,129760
+Stenochironomus macateei,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,15,Chironomidae,,facultative,,,129769
+Stenochironomus poecilopterus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,15,Chironomidae,,facultative,,,129774
+Stenochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,5,c-g,15,Chironomidae,,facultative,4,3,129746
+Stenonema femoratum,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,7,scr,9,Ephemeroptera,"Stenonema tripunctatum, Stenonema sp. 4",facultative,,,100516
+Stenonema sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,3,scr,9,Ephemeroptera,,intolerant,5,5,100507
+Stictochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,9,c-g,124,Chironomidae,,tolerant,,,129785
+Stilocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,3,c-g,124,Chironomidae,,intolerant,,,129152
+Stratiomys sp.,ARTHROPODA,INSECTA,DIPTERA,Stratiomyidae,,7,c-g,83,Insects-other,,facultative,,,130627
+Strophopteryx fasciata,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,3,shr,114,Plecoptera,,intolerant,,,102809
+Strophopteryx sp.,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,3,shr,114,Plecoptera,,intolerant,,,102808
+Stylaria lacustris,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,Stylaria fossularis,facultative,5,2,68872
+Stylaria sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,facultative,,,68871
+Stylodrilus heringianus,ANNELIDA,OLIGOCHAETA,LUMBRICULIDA,Lumbriculidae,,5,c-g,18,Oligochaeta,,tolerant,,,68452
+Stylodrilus sp.,ANNELIDA,OLIGOCHAETA,LUMBRICULIDA,Lumbriculidae,,5,c-g,18,Oligochaeta,,tolerant,,,68450
+Stylogomphus albystilus,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,1,prd,"83, 122",Insects-other,,intolerant,,,101762
+Stylogomphus sp.,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,1,prd,"83,122",Insects-other,,intolerant,,,101761
+Stylurus sp.,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,4,prd,"83,122",Insects-other,,intolerant,,,101666
+Sublettea coffmani,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,124,Chironomidae,"Tanytarsus coffmani, Tanytarsus sp. 3",intolerant,3,5,129976
+Sublettea sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,124,Chironomidae,,intolerant,,,129975
+Suwallia marginata,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,0,prd,"114,1",Plecoptera,Suwallia sp.,intolerant,,,103255
+Sweltsa sp.,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,0,prd,"83,114",Plecoptera,,intolerant,,,103273
+Symbiocladius equitans,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,2,prd,124,Chironomidae,,intolerant,,,129159
+Symbiocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,2,prd,124,Chironomidae,,intolerant,,,129156
+Sympetrum janeae,ARTHROPODA,INSECTA,ODONATA,Libellulidae,,4,prd,"83,122",Insects-other,,intolerant,,,593346
+Sympetrum sp.,ARTHROPODA,INSECTA,ODONATA,Libellulidae,,4,prd,"83,122",Insects-other,,intolerant,,,101976
+Sympetrum vicinum,ARTHROPODA,INSECTA,ODONATA,Libellulidae,,4,prd,"83,122",Insects-other,,intolerant,,,101979
+Sympotthastia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,2,c-g,124,Chironomidae,,intolerant,,,128426
+Synorthocladius nr. semivirens,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,106,Chironomidae,"Eukiefferiella sp. 3, Eukiefferiella sordens, Nanocladius sp.",facultative,6,9,129162
+Synorthocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,106,Chironomidae,,facultative,,,129161
+Tabanus sp.,ARTHROPODA,INSECTA,DIPTERA,Tabanidae,,5,prd,83,Insects-other,,facultative,,,131527
+Taenionema atlanticum,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,114,Plecoptera,,intolerant,,,102819
+Taenionema sp.,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,114,Plecoptera,,intolerant,,,102519
+Taeniopteryx burksi,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,45,Plecoptera,,intolerant,,,102791
+Taeniopteryx lonicera,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,45,Plecoptera,,intolerant,,,102793
+Taeniopteryx nivalis,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,45,Plecoptera,,intolerant,,,102798
+Taeniopteryx parvula,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,45,Plecoptera,,intolerant,,,102796
+Taeniopteryx sp.,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,114,Plecoptera,,intolerant,,,102789
+Tallaperla sp.,ARTHROPODA,INSECTA,PLECOPTERA,Peltoperlidae,,0,shr,"83,114",Plecoptera,,intolerant,,,102500
+Tanypus neopunctipennis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,10,prd,89,Chironomidae,,tolerant,,,128329
+Tanypus punctipennis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,10,prd,89,Chironomidae,,tolerant,,,128333
+Tanypus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,10,prd,89,Chironomidae,,tolerant,,,128324
+Tanypus stellatus,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,10,prd,89,Chironomidae,,tolerant,,,128336
+Tanytarsus brundini,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,,facultative,,,129982
+Tanytarsus curticornis gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,,Chironomidae,,facultative,,,129985
+Tanytarsus eminulus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,Tanytarsus sp. 8,facultative,,,
+Tanytarsus glabrescens gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,"Micropsectra sp. 1, Micropsectra sp.",facultative,5,6,130030
+Tanytarsus guerlus gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,Tanytarsus sp. 6,facultative,5,5,129997
+Tanytarsus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,87,Chironomidae,,facultative,,,129978
+Tanytarsus sp. O,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,36,Chironomidae,,facultative,,,129978
+Telopelopia okoboji,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,94,Chironomidae,,tolerant,,,128234
+Telopelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,94,Chironomidae,,tolerant,,,128233
+Tetragoneuria sp.,ARTHROPODA,INSECTA,ODONATA,Corduliidae,,9,prd,,Insects-Other,,tolerant,,,591872
+Thienemanniella lobapodema,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"106,36",Chironomidae,"Thienemanniella nr. fusca, Thienemanniella sp. 2, Brillia sp. 2",facultative,,,
+Thienemanniella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"124,83",Chironomidae,Corynoneura sp.,facultative,,,129182
+Thienemanniella xena,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,6,c-g,"106,36",Chironomidae,"Thienemanniella xena?, Thienemanniella sp. 1",facultative,,,129190
+Thienemannimyia gr. spp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,"Pentaneura sp. 1, Conchapelopia sp. 1",facultative,8,8,128236
+Thienemannimyia norena,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128243
+Thienemannimyia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,6,prd,94,Chironomidae,,facultative,,,128236
+Tipula sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,6,shr,"83,25",Insects-other,,intolerant,10,10,119037
+Triaenodes sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,6,shr,"125,47",Trichoptera,,facultative,,,116565
+Tribelos atrum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,49,Chironomidae,,facultative,,,206656
+Tribelos fuscicorne,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,49,Chironomidae,,facultative,,,129823
+Tribelos jucundum,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,49,Chironomidae,"Tribelos sp. 1, Tribelos sp.",facultative,,,129827
+Tribelos sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,7,c-g,49,Chironomidae,,facultative,,,129820
+Tribelos/Endochironomus/Phaenopsectra Co,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,c-g,124,Chironomidae,,tolerant,,,129820
+Tricorythodes sp.,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptohyphidae,,4,c-g,83,Ephemeroptera,,intolerant,4,9,101405
+Trissocladius sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,"124,83",Chironomidae,,facultative,,,129156
+Trissopelopia ogemawi,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,91,Chironomidae,,intolerant,,,128252
+Trissopelopia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,4,prd,91,Chironomidae,,intolerant,,,129156
+Tropisternus sp.,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophyllidae,,5,prd,"83,123",Coleoptera,,facultative,,,112938
+Tubifex sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68622
+Tubifex tubifex,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68623
+Tvetenia bavarica gr.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,13,Chironomidae,"Eukiefferiella saanensis, Eukiefferiella coerulescens gr., Trichocladius sp. 3",facultative,9,10,129205
+Tvetenia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,13,Chironomidae,,facultative,,,129197
+Tvetenia vitracies,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,"13,70",Chironomidae,"Tvetenia discoloripes gr.,Eukiefferiella discoloripes gr.,Eukiefferiella sp.,Eukiefferiella sp. 1",facultative,7,6,129203
+Tyrellia sp.,ARTHROPODA,ARACHNOIDEA,,Tyrellidae,,6,prd,108,Other,,facultative,,,
+Ulomorpha sp.,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,4,prd,25,Insects-other,,intolerant,,,120387
+Uncinais uncinata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,Naidinae,,c-g,"83,61",Oligochaeta,,,,,68990
+Undet. Tubificidae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68585
+Undet. Tubificidae w/ cap. setae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,"Undetermined Tubificidae, Peloscolex sp.",tolerant,10,8,68585
+Undet. Tubificidae w/o cap. setae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Tubificidae,,10,c-g,"18,83",Oligochaeta,"Undetermined Tubificidae, Peloscolex sp.",tolerant,7,7,68585
+Undetermined Acariformes,ARTHROPODA,ARACHNOIDEA,,,,6,prd,108,Other,Hydracarina,facultative,,,690740
+Undetermined Aeolosomatidae,ANNELIDA,APHANONEURA,AEOLOSOMATIDA,Aeolosomatidae,,8,c-f,29,Other,,tolerant,,,68423
+Undetermined Aeschnidae,ARTHROPODA,INSECTA,ODONATA,Aeschnidae,,5,prd,"83,122",Insects-other,,facultative,,,101596
+Undetermined Aeshnidae,ARTHROPODA,INSECTA,ODONATA,Aeshnidae,,5,prd,"83,122",Insects-other,,facultative,,,101596
+Undetermined Ameletidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ameletidae,,0,c-g,83,Ephemeroptera,,intolerant,,,568544
+Undetermined Ancylidae,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Ancylidae,,6,scr,"60,83",Mollusca,,facultative,,,76568
+Undetermined Anthomyiidae,ARTHROPODA,INSECTA,DIPTERA,Anthomyiidae,,6,prd,117,Insects-other,,facultative,,,148685
+Undetermined Anthuridae,ARTHROPODA,CRUSTACEA,ISOPODA,Anthuridae,,5,c-g,48,Crustacea,,facultative,,,92144
+Undetermined Apataniidae,ARTHROPODA,INSECTA,TRICHOPTERA,Apataniidae,,3,scr,125,Trichoptera,,intolerant,,,598182
+Undetermined Arctiidae,ARTHROPODA,INSECTA,LEPIDOPTERA,Arctiidae,,5,shr,66,Insects-other,,facultative,,,117297
+Undetermined Asellidae,ARTHROPODA,CRUSTACEA,ISOPODA,Asellidae,,8,c-g,108,Crustacea,,tolerant,,,92657
+Undetermined Athericidae,ARTHROPODA,INSECTA,DIPTERA,Athericidae,,4,prd,117,Insects-other,,intolerant,,,130928
+Undetermined Baetidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetidae,,6,c-g,83,Ephemeroptera,,facultative,,,100755
+Undetermined Baetiscidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Baetiscidae,,4,c-g,83,Ephemeroptera,,intolerant,,,101493
+Undetermined Bithyniidae,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Bithyniidae,,8,scr,"60,83",Mollusca,,tolerant,,,70745
+Undetermined Blephariceridae,ARTHROPODA,INSECTA,DIPTERA,Blephariceridae,,0,scr,"83,117",Insects-other,,intolerant,,,121227
+Undetermined Brachycentridae,ARTHROPODA,INSECTA,TRICHOPTERA,Brachycentridae,,2,shr,"125,42",Trichoptera,,intolerant,,,116905
+Undetermined Branchiobdellidae,ANNELIDA,BRANCHIOBDELLA,BRANCHIOBDELLIDA,Branchiobdellidae,,6,c-g,108,Other,,facultative,,,69169
+Undetermined Caenidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Caenidae,,6,c-g,83,Ephemeroptera,,facultative,,,101467
+Undetermined Calamoceratidae,ARTHROPODA,INSECTA,TRICHOPTERA,Calamoceratidae,,3,shr,"83,125",Trichoptera,,intolerant,,,116529
+Undetermined Calopterygidae,ARTHROPODA,INSECTA,ODONATA,Calopterygidae,,6,prd,"83,122",Insects-other,,facultative,,,102043
+Undetermined Cambaridae,ARTHROPODA,CRUSTACEA,DECAPODA,Cambaridae,,6,c-g,"83,108,5",Crustacea,,facultative,6,5,97336
+Undetermined Capniidae,ARTHROPODA,INSECTA,PLECOPTERA,Capniidae,,3,shr,114,Plecoptera,,intolerant,,,102643
+Undetermined Carabidae,ARTHROPODA,INSECTA,COLEOPTERA,Carabidae,,4,prd,,Coleoptera,,intolerant,,,109234
+Undetermined Ceratopogonidae,ARTHROPODA,INSECTA,DIPTERA,Ceratopogonidae,,6,prd,83,Insects-other,,facultative,8,9,127076
+Undetermined Chaoboridae,ARTHROPODA,INSECTA,DIPTERA,Chaoboridae,,8,prd,83,Insects-other,,tolerant,,,127076
+Undetermined Chironomidae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,,6,c-g,124,Chironomidae,,facultative,,,127917
+Undetermined Chironominae,ARTHROPODA,INSECTA,DIPTERA,Chrionomidae,Chironominae,6,c-g,124,Chironomidae,,facultative,,,129228
+Undetermined Chironomini,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-g,124,Chironomidae,,facultative,,,129229
+Undetermined Chloroperlidae,ARTHROPODA,INSECTA,PLECOPTERA,Chloroperlidae,,0,prd,"83,114",Plecoptera,,intolerant,,,103202
+Undetermined Coenagrionidae,ARTHROPODA,INSECTA,ODONATA,Coenagrionidae,,8,prd,"83,122",Insects-other,,tolerant,,,102077
+Undetermined Coleoptera,ARTHROPODA,INSECTA,COLEOPTERA,,,5,,"83,123",Coleoptera,,,,,109216
+Undetermined Collembola,ARTHROPODA,INSECTA,COLLEMBOLA,,,5,c-g,83,Other,,facultative,,,99237
+Undetermined Corbiculidae,MOLLUSCA,PELECYPODA,VENEROIDEA,Corbiculidae,,6,c-f,83,Mollusca,,facultative,,,81381
+Undetermined Cordulegastridae,ARTHROPODA,INSECTA,ODONATA,Cordulegastridae,,3,prd,"83,122",Insects-other,,intolerant,,,102026
+Undetermined Corduliidae,ARTHROPODA,INSECTA,ODONATA,Corduliidae,,2,prd,"83,122",Insects-other,,intolerant,,,102020
+Undetermined Corixidae,ARTHROPODA,INSECTA,HEMIPTERA,Corixidae,,5,prd,83,Insects-other,,facultative,,,103364
+Undetermined Corydalidae,ARTHROPODA,INSECTA,MEGALOPTERA,Corydalidae,,4,prd,"83,76",Insects-other,,intolerant,,,115023
+Undetermined Crangonyctidae,ARTHROPODA,CRUSTACEA,AMPHIPODA,Crangonyctidae,,6,c-g,108,Crustacea,,facultative,,,95080
+Undetermined Crustacean,ARTHROPODA,CRUSTACEA,,,,6,c-g,,Crustacea,,facultative,,,83677
+Undetermined Culicidae,ARTHROPODA,INSECTA,DIPTERA,Culicidae,,8,c-f,83,Insects-other,,tolerant,,,125930
+Undetermined Curculionidae,ARTHROPODA,INSECTA,COLEOPTERA,Curculionidae,,5,shr,83,Coleoptera,,facultative,,,114666
+Undetermined Diamesinae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Diamesinae,2,c-g,124,Chironomidae,,intolerant,,,128341
+Undetermined Dipseudopsidae,ARTHROPODA,INSECTA,TRICHOPTERA,Dipseudopsidae,,5,c-f,125,Trichoptera,,facultative,,,598168
+Undetermined Diptera,ARTHROPODA,INSECTA,DIPTERA,,,6,,,Insects-other,,facultative,,,118831
+Undetermined Dixidae,ARTHROPODA,INSECTA,DIPTERA,Dixidae,,1,c-f,"83,127",Insects-other,,intolerant,,,125809
+Undetermined Dolichopodidae,ARTHROPODA,INSECTA,DIPTERA,Dolichopodidae,,4,prd,"83,117",Insects-other,,intolerant,,,136824
+Undetermined Dreisseniidae,MOLLUSCA,PELECYPODA,VENEROIDEA,Dreisseniidae,,8,c-f,82,Mollusca,,tolerant,,,81330
+Undetermined Dryopidae,ARTHROPODA,INSECTA,COLEOPTERA,Dryopidae,,5,scr,83,Coleoptera,,facultative,,,113999
+Undetermined Dytiscidae,ARTHROPODA,INSECTA,COLEOPTERA,Dytiscidae,,5,prd,"83,123",Coleoptera,,facultative,,,111963
+Undetermined Elmidae,ARTHROPODA,INSECTA,COLEOPTERA,Elmidae,,5,scr,"83,19",Coleoptera,,facultative,,,114093
+Undetermined Empididae,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,83,Insects-other,,facultative,,,135830
+Undetermined Enchytraeidae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Enchytraeidae,,10,c-g,"18,83",Oligochaeta,,tolerant,7,8,68510
+Undetermined Enchytraeidae sp. 1,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Enchytraeidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68510
+Undetermined Enchytraeidae sp. 2,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Enchytraeidae,,10,c-g,"18,83",Oligochaeta,,tolerant,,,68510
+Undetermined Ephemerellidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemerellidae,,2,c-g,83,Ephemeroptera,,intolerant,3,6,101232
+Undetermined Ephemeridae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Ephemeridae,,2,c-g,83,Ephemeroptera,,intolerant,,,101525
+Undetermined Ephydridae,ARTHROPODA,INSECTA,DIPTERA,Ephydridae,,7,shr,117,Insects-other,,facultative,,,146893
+Undetermined Erpobdellidae,ANNELIDA,HIRUDINEA,ARHYNCHOBDELLIDA,Erpobdellidae,,8,prd,"83, 63",Other,,prd,,,69438
+Undetermined Gammaridae,ARTHROPODA,CRUSTACEA,AMPHIPODA,Gammaridae,,6,c-g,"17,57",Crustacea,,facultative,,,93745
+Undetermined Gastropoda,MOLLUSCA,GASTROPODA,,,,7,scr,"60,83",Mollusca,,facultative,,,69459
+Undetermined Glossiphoniidae,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,Glossiphoniidae,,8,prd,"83,63",Other,,tolerant,,,69357
+Undetermined Glossosomatidae,ARTHROPODA,INSECTA,TRICHOPTERA,Glossosomatidae,,1,scr,125,Trichoptera,,intolerant,,,117120
+Undetermined Goeridae,ARTHROPODA,INSECTA,TRICHOPTERA,Goeridae,,3,scr,125,Trichoptera,,intolerant,,,115934
+Undetermined Gomphidae,ARTHROPODA,INSECTA,ODONATA,Gomphidae,,4,prd,"83,122",Insects-other,,intolerant,2,0,101664
+Undetermined Gyrinidae,ARTHROPODA,INSECTA,COLEOPTERA,Gyrinidae,,4,prd,"83,123",Coleoptera,,intolerant,,,112653
+Undetermined Haliplidae,ARTHROPODA,INSECTA,COLEOPTERA,Haliplidae,,5,shr,"83,123",Coleoptera,,facultative,,,111857
+Undetermined Haplotaxidae,ANNELIDA,OLIGOCHAETA,HAPLOTAXIDA,Haplotaxidae,,5,prd,18,Oligochaeta,,tolerant,,,68504
+Undetermined Helicopsychidae,ARTHROPODA,INSECTA,TRICHOPTERA,Helicopsychidae,,3,scr,"125,83",Trichoptera,,intolerant,,,117015
+Undetermined Hemiptera,ARTHROPODA,INSECTA,HEMIPTERA,,,5,prd,83,Insects-Other,,facultative,,,103359
+Undetermined Heptageniidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Heptageniidae,,3,scr,83,Ephemeroptera,,intolerant,5,2,100504
+Undetermined Hirudinea,ANNELIDA,HIRUDINEA,RHYNCHOBDELLIDA,,,8,prd,"83,63",Other,,tolerant,9,10,568834
+Undetermined Hydraenidae,ARTHROPODA,INSECTA,COLEOPTERA,Hydraenidae,,5,prd,,Coleoptera,,facultative,,,112756
+Undetermined Hydridae,COELENTERATA,HYDROZOA,HYDROIDA,Hydridae,,5,prd,108,Other,,facultative,,,50844
+Undetermined Hydrobiidae,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Hydrobiidae,,8,scr,"60,83",Mollusca,,tolerant,6,7,70493
+Undetermined Hydrophilidae,ARTHROPODA,INSECTA,COLEOPTERA,Hydrophilidae,,5,prd,"83,123",Coleoptera,,facultative,,,112811
+Undetermined Hydropsychidae,ARTHROPODA,INSECTA,TRICHOPTERA,Hydropsychidae,,5,c-f,125,Trichoptera,,facultative,,,115398
+Undetermined Hydroptilidae,ARTHROPODA,INSECTA,TRICHOPTERA,Hydroptilidae,,6,scr,125,Trichoptera,,facultative,5,2,115629
+Undetermined Idoteidae,ARTHROPODA,CRUSTACEA,ISOPODA,Idoteidae,,5,c-g,48,Crustacea,,facultative,,,92564
+Undetermined Isonychiidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Isonychiidae,,2,c-f,83,Ephemeroptera,,intolerant,,,609506
+Undetermined Isopoda,ARTHROPODA,CRUSTACEA,ISOPODA,,,7,c-g,"108,83",Crustacea,,tolerant,,,92120
+Undetermined Isotomidae,ARTHROPODA,INSECTA,COLLEMBOLA,Isotomidae,,5,c-g,83,Other,,facultative,,,99245
+Undetermined Lepidoptera,ARTHROPODA,INSECTA,LEPIDOPTERA,,,5,shr,"83,66",Insects-other,,facultative,,,117232
+Undetermined Lepidostomatidae,ARTHROPODA,INSECTA,TRICHOPTERA,Lepidostomatidae,,1,shr,125,Trichoptera,,intolerant,,,116793
+Undetermined Leptoceridae,ARTHROPODA,INSECTA,TRICHOPTERA,Leptoceridae,,4,prd,125,Trichoptera,,intolerant,,,116547
+Undetermined Leptohyphidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptohyphidae,,4,c-g,83,Ephemeroptera,,intolerant,,,568545
+Undetermined Leptophlebiidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Leptophlebiidae,,4,c-g,83,Ephemeroptera,,intolerant,,,101095
+Undetermined Lestidae,ARTHROPODA,INSECTA,ODONATA,Lestidae,,6,prd,"83,122",Insects-other,,facultative,,,102058
+Undetermined Leuctridae,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,"83,114",Plecoptera,,intolerant,,,102840
+Undetermined Libellulidae,ARTHROPODA,INSECTA,ODONATA,Libellulidae,,2,prd,"83,122",Insects-other,,intolerant,,,101797
+Undetermined Limnephilidae,ARTHROPODA,INSECTA,TRICHOPTERA,Limnephilidae,,4,shr,125,Trichoptera,,intolerant,3,4,115933
+Undetermined Lumbricina,ANNELIDA,OLIGOCHAETA,LUMBRICIDA,Lumbricina,,6,c-g,83,Oligochaeta,Undetermined Lumbriculidae,facultative,8,8,69069
+Undetermined Lumbriculidae,ANNELIDA,OLIGOCHAETA,LUMBRICULIDA,Lumbriculidae,,5,c-g,18,Oligochaeta,,tolerant,5,6,68440
+Undetermined Lymnaeidae,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Lymnaeidae,,6,c-g,"60,83",Mollusca,,facultative,,,76483
+Undetermined Macromiidae,ARTHROPODA,INSECTA,ODONATA,Macromiidae,,2,prd,"83,122",Insects-other,,intolerant,,,102019
+Undetermined Metretopodidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Metretopodidae,,2,c-g,"4,2",Ephemeroptera,,intolerant,,,101078
+Undetermined Molannidae,ARTHROPODA,INSECTA,TRICHOPTERA,Molannidae,,6,scr,125,Trichoptera,,facultative,,,116473
+Undetermined Muscidae,ARTHROPODA,INSECTA,DIPTERA,Muscidae,,6,prd,"83,117",Insects-other,,facultative,,,150025
+Undetermined Naididae,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68854
+Undetermined Nannatacidae,ARTHROPODA,CRUSTACEA,CUMACEA,Nannastacidae,,5,c-g,48,Crustacea,,facultative,,,
+Undetermined Nematoda,NEMATODA,,,,,5,c-g,,Other,,facultative,,,59490
+Undetermined Nemertea,NEMERTEA,ENOPLA,HOPLONEMERTEA,Tetrastemmatidae,,8,prd,108,Other,,tolerant,,,57411
+Undetermined Nemouridae,ARTHROPODA,INSECTA,PLECOPTERA,Nemouridae,,2,shr,114,Plecoptera,,intolerant,,,102517
+Undetermined Nepticulidae,ARTHROPODA,INSECTA,LEPIDOPTERA,Nepticulidae,,5,shr,66,Insects-other,Nepticula sp.,facultative,,,118745
+Undetermined Noteridae,ARTHROPODA,INSECTA,COLEOPTERA,Noteridae,,5,,,Coleoptera,,facultative,,,112606
+Undetermined Odontoceridae,ARTHROPODA,INSECTA,TRICHOPTERA,Odontoceridae,,0,scr,83,Trichoptera,,intolerant,,,116496
+Undetermined Oedicerotidae,ARTHROPODA,CRUSTACEA,AMPHIPODA,Oedicerotidae,,5,c-g,17,Crustacea,,facultative,,,94489
+Undetermined Oligochaeta,ANNELIDA,OLIGOCHAETA,,,,8,c-g,"18,83",Oligochaeta,,tolerant,,,68422
+Undetermined Orthocladiinae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,c-g,124,Chironomidae,,facultative,,,128457
+Undetermined Ostracoda,ARTHROPODA,CRUSTACEA,OSTRACODA,,,6,c-g,108,Crustacea,,facultative,,,84195
+Undetermined Peltoperlidae,ARTHROPODA,INSECTA,PLECOPTERA,Peltoperlidae,,0,shr,"83,114",Plecoptera,,intolerant,,,102488
+Undetermined Penaeidae,ARTHROPODA,CRUSTACEA,DECAPODA,Penaeidae,,6,c-g,48,Crustacea,,facultative,,,95602
+Undetermined Perlidae,ARTHROPODA,INSECTA,PLECOPTERA,Perlidae,,3,prd,114,Plecoptera,,intolerant,5,7,102914
+Undetermined Perlodidae,ARTHROPODA,INSECTA,PLECOPTERA,Perlodidae,,2,prd,"83,114",Plecoptera,Isogenus sp.,intolerant,,,102994
+Undetermined Philopotamidae,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,4,c-f,125,Trichoptera,,intolerant,,,115257
+Undetermined Phryganeidae,ARTHROPODA,INSECTA,TRICHOPTERA,Phryganeidae,,4,shr,125,Trichoptera,,intolerant,,,115867
+Undetermined Physidae,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Physidae,,8,c-g,"83,60",Mollusca,,tolerant,,,76676
+Undetermined Pisidiidae,MOLLUSCA,PELECYPODA,VENEROIDEA,Pisidiidae,,6,c-f,83,Mollusca,,facultative,10,8,81388
+Undetermined Planorbidae,MOLLUSCA,GASTROPODA,BASOMMATOPHORA,Planorbidae,,6,scr,"60,83",Mollusca,,facultative,,,76591
+Undetermined Plecoptera,ARTHROPODA,INSECTA,PLECOPTERA,,,2,,83,Plecoptera,,intolerant,,,102467
+Undetermined Pleuroceridae,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Pleuroceridae,,6,scr,"60,83",Mollusca,,facultative,,,71541
+Undetermined Polycentropodidae,ARTHROPODA,INSECTA,TRICHOPTERA,Polycentropodidae,,6,prd,125,Trichoptera,,facultative,,,117043
+Undetermined Polychaeta,ANNELIDA,POLYCHAETA,,,,6,c-g,83,Other,,facultative,,,64358
+Undetermined Polydesmida,ARTHROPODA,DIPLOPODA,POLYDESMIDA,,,6,c-g,16,Other,,facultative,,,154416
+Undetermined Polymitarcyidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Polymitarcyidae,,2,c-g,"83,24",Ephemeroptera,,intolerant,,,101569
+Undetermined Potamanthidae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Potamanthidae,,4,c-g,"83,73",Ephemeroptera,,intolerant,,,101509
+Undetermined Prodiamesinae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Prodiamesinae,8,c-g,83,Chironomidae,,tolerant,,,128437
+Undetermined Psephenidae,ARTHROPODA,INSECTA,COLEOPTERA,Psephenidae,,4,scr,"83,19",Coleoptera,,intolerant,,,114069
+Undetermined Psychodidae,ARTHROPODA,INSECTA,DIPTERA,Psychodidae,,10,c-g,"83,117",Insects-other,,tolerant,,,125351
+Undetermined Psychomyiidae,ARTHROPODA,INSECTA,TRICHOPTERA,Psychomyiidae,,2,c-g,125,Trichoptera,,intolerant,,,115334
+Undetermined Pteronarcidae,ARTHROPODA,INSECTA,PLECOPTERA,Pteronarcidae,,0,shr,"83,114",Plecoptera,,intolerant,,,102470
+Undetermined Ptilodactylidae,ARTHROPODA,INSECTA,COLEOPTERA,Ptilodactylidae,,3,shr,19,Coleoptera,,intolerant,,,114265
+Undetermined Ptychopteridae,ARTHROPODA,INSECTA,DIPTERA,Ptychopteridae,,9,c-g,83,Insects-other,,tolerant,,,125763
+Undetermined Pyralidae,ARTHROPODA,INSECTA,LEPIDOPTERA,Pyralidae,,5,scr,"83,66",Insects-other,,facultative,,,117641
+Undetermined Rhyacophilidae,ARTHROPODA,INSECTA,TRICHOPTERA,Rhyacophilidae,,1,prd,125,Trichoptera,,intolerant,,,115096
+Undetermined Sabellidae,ANNELIDA,POLYCHAETA,SABELLIDAE,Sabellidae,,6,c-g,83,Other,,facultative,,,68076
+Undetermined Scathophagidae,ARTHROPODA,INSECTA,DIPTERA,Scathophagidae,,6,shr,83,Insects-other,,facultative,,,678096
+Undetermined Scirtidae,ARTHROPODA,INSECTA,COLEOPTERA,Scirtidae,,5,scr,83,Coleoptera,Undetermined Helodidae,facultative,,,113924
+Undetermined Sialidae,ARTHROPODA,INSECTA,MEGALOPTERA,Sialidae,,4,prd,"83,37",Insects-other,,facultative,,,115001
+Undetermined Simuliidae,ARTHROPODA,INSECTA,DIPTERA,Simuliidae,,5,c-f,"115,128",Insects-other,,facultative,,,126640
+Undetermined Siphlonuridae,ARTHROPODA,INSECTA,EPHEMEROPTERA,Siphlonuridae,,4,c-g,83,Ephemeroptera,,intolerant,,,100951
+Undetermined Sisyridae,ARTHROPODA,INSECTA,NEUROPTERA,Sisyridae,,5,prd,37,Insects-other,,facultative,,,115085
+Undetermined Stratiomyidae,ARTHROPODA,INSECTA,DIPTERA,Stratiomyidae,,7,c-g,83,Insects-other,,facultative,,,130150
+Undetermined Syrphidae,ARTHROPODA,INSECTA,DIPTERA,Syrphidae,,10,c-g,83,Insects-other,,tolerant,,,139621
+Undetermined Tabanidae,ARTHROPODA,INSECTA,DIPTERA,Tabanidae,,5,prd,"83,117",Insects-other,,facultative,,,130934
+Undetermined Taeniopterygidae,ARTHROPODA,INSECTA,PLECOPTERA,Taeniopterygidae,,2,shr,114,Plecoptera,,intolerant,,,102788
+Undetermined Talitridae,ARTHROPODA,CRUSTACEA,AMPHIPODA,Talitridae,,8,c-g,17,Crustacea,,tolerant,,,95032
+Undetermined Tanyderidae,ARTHROPODA,INSECTA,DIPTERA,Tanyderidae,,3,c-g,83,Insects-other,,intolerant,,,125799
+Undetermined Tanypodinae,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,7,prd,83,Chironomidae,,facultative,,,127994
+Undetermined Tanytarsini,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,c-f,124,Chironomidae,,facultative,,,129872
+Undetermined Tipulidae,ARTHROPODA,INSECTA,DIPTERA,Tipulidae,,4,shr,"83,25",Insects-other,,intolerant,,,118840
+Undetermined Trichoptera,ARTHROPODA,INSECTA,TRICHOPTERA,,,3,,"98,125",Trichoptera,,intolerant,,,115095
+Undetermined Turbellaria,PLATYHELMINTHES,TURBELLARIA,TRICLADIDA,,,6,c-g,62,Other,"Platyhelminthes, Undetermined Planariidae, Cura foremanii",facultative,8,6,53964
+Undetermined Uenoidae,ARTHROPODA,INSECTA,TRICHOPTERA,Uenoidae,,3,scr,39,Trichoptera,,intolerant,,,568757
+Undetermined Unionidae,MOLLUSCA,PELECYPODA,UNIONIDA,Unionidae,,6,c-f,"116,83,3",Mollusca,,facultative,,,79913
+Undetermined Valvatidae,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Valvatidae,,8,scr,"60,83",Mollusca,,tolerant,,,70345
+Undetermined Viviparidae,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Viviparidae,,6,scr,"60,83",Mollusca,,facultative,,,70304
+Unionicola sp.,ARTHROPODA,ARACHNOIDEA,,Unionicolidae,,6,prd,108,Other,,facultative,,,83073
+Unionicola sp. 1,ARTHROPODA,ARACHNOIDEA,,Unionicolidae,,6,prd,108,Other,,facultative,,,83073
+Unionicola sp. 2,ARTHROPODA,ARACHNOIDEA,,Unionicolidae,,6,prd,108,Other,,facultative,,,83073
+Unniella multivirga,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,27,Chironomidae,Prodiamesa sp. 2,intolerant,,,129207
+Unniella sp.l,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,c-g,27,Chironomidae,,intolerant,,,129206
+Valvata lewisi,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Valvatidae,,8,scr,"60,83",Mollusca,,tolerant,,,70359
+Valvata piscinalis,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Valvatidae,,8,scr,"60,83",Mollusca,,tolerant,,,70348
+Valvata sincera,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Valvatidae,,8,scr,"60,83",Mollusca,,tolerant,,,70349
+Valvata sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Vavatidae,,8,scr,"60,83",Mollusca,,tolerant,,,70346
+Valvata tricarinata,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Valvatidae,,8,scr,"60,83",Mollusca,,tolerant,,,70354
+Vejdovskyella comata,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,intolerant,,,69010
+Vejdovskyella intermedia,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,intolerant,,,69010
+Vejdovskyella sp.,ANNELIDA,OLIGOCHAETA,TUBIFICIDA,Naididae,,6,c-g,"18,83",Oligochaeta,,intolerant,,,69009
+Viviparus georgianus,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Viviparidae,,6,scr,"60,83",Mollusca,,facultative,,,70307
+Viviparus sp.,MOLLUSCA,GASTROPODA,MESOGASTROPODA,Viviparidae,,6,scr,"60,83",Mollusca,,facultative,,,70305
+Wiedemannia sp.,ARTHROPODA,INSECTA,DIPTERA,Empididae,,6,prd,"83,117",Insects-other,,facultative,,,135920
+Wormaldia sp.,ARTHROPODA,INSECTA,TRICHOPTERA,Philopotamidae,,2,c-f,125,Trichoptera,,intolerant,,,115258
+Xenochironomus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chrionominae,4,prd,88,Chironomidae,,intolerant,,,129837
+Xenochironomus xenolabis,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,prd,88,Chironomidae,,intolerant,,,129838
+Xylotopus par,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,"83,124",Chironomidae,,facultative,,,129209
+Xylotopus sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,5,shr,"83,124",Chironomidae,,facultative,,,129208
+Zalutschia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,shr,99,Chironomidae,,intolerant,,,129213
+Zalutschia zalutschicola,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Orthocladiinae,4,shr,99,Chironomidae,,intolerant,,,129227
+Zavrelia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,4,c-f,124,Chironomidae,"Zavrelia sp., Constempellina sp. 1",intolerant,9,9,130038
+Zavreliella marmorata,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,8,,,Chironomidae,,tolerant,,,189328
+Zavreliella sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Chironominae,6,,36,Chironomidae,,facultative,,,130040
+Zavrelimyia sinuosa,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,90,Chironomidae,,tolerant,,,128262
+Zavrelimyia sp.,ARTHROPODA,INSECTA,DIPTERA,Chironomidae,Tanypodinae,8,prd,83,Chironomidae,,tolerant,,,128259
+Zealeuctra sp.,ARTHROPODA,INSECTA,PLECOPTERA,Leuctridae,,0,shr,"83,114",Plecoptera,,intolerant,,,102900
