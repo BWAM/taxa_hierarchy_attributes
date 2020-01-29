@@ -1,0 +1,39 @@
+---
+title: "Untitled"
+author: "Zachary M. Smith"
+date: "November 27, 2018"
+output: html_document
+---
+
+```{r}
+master.sub <- master.df %>% 
+  select(final_id, macro_genspecies,
+         tol_int, tol_char, tol_p_int, tol_n_int, ffg, 
+         reference, prevnames) %>% 
+  rename(org_id = final_id)
+```
+
+```{r}
+hier.df <- hier.df %>% 
+  mutate(org_id = tolower(org_id),
+         org_id = str_replace(org_id, " ", "_"))
+```
+
+```{r}
+final.df <- left_join(master.sub, hier.df, by = "org_id")
+```
+
+```{r}
+issues.df <- final.df %>% 
+  filter(is.na(kingdom))
+
+knitr::kable(issues.df)
+```
+
+```{r}
+data.table::fwrite(final.df, 
+                   file.path(root.dir, 
+                             "data",
+                             "processed",
+                             paste0("macro_taxa-hier-attributes_", Sys.Date(), ".csv")))
+```

@@ -1,0 +1,24 @@
+---
+title: "Preprocessing"
+author: "Zachary M. Smith"
+date: "November 26, 2018"
+output: html_document
+---
+
+# Prepare R
+
+Load the necessary packages.
+```{r}
+library(tidyverse)
+library(ritis)
+```
+
+Find the R-project root directory, which will be used to establish file paths in scripts below.
+```{r}
+root.dir <- rprojroot::find_root("taxa_hierarchy_attributes.Rproj")
+```
+
+Load the historical macroinvertebrate taxonomic hierarchy and attributes.
+```{r}
+org.df <- data.table::fread(file.path(root.dir, "data/master_macro_species.csv"))
+```

@@ -1,0 +1,172 @@
+---
+title: "Untitled"
+author: "Zachary M. Smith"
+date: "November 26, 2018"
+output: html_document
+---
+
+## Acquire Taxonomic Hierarchy
+
+Create a vector of all of the unique TSNs acquired above.
+```{r}
+tsn.vec <- unique(taxa.df$tsn)
+tsn.vec <- tsn.vec[!is.na(tsn.vec)]
+tsn.df <- dplyr::tibble(tsn = tsn.vec)
+```
+
+There are > 1,000 unique taxa in the historical data table. To reduce the computation time required to acquire ITIS taxonomic hierarchy for each of these taxa, the processes will be parallelized. This code chunk establishes the clusters that will be used for parallelization during subsequent code chunks.
+```{r, results = 'hide'}
+library(parallel)
+n.cores <- detectCores() - 1
+cl <- makeCluster(n.cores)
+clusterExport(cl = cl,
+              varlist = c("tsn.vec", "taxa.df"),
+              envir = environment())
+
+invisible(clusterEvalQ(cl, c(library(tidyverse))))
+```
+
+The TSNs acquired above are used to query the ITIS database and extract all of the taxonomic information related to each reported taxon. The __ritis__ function, `usage()`, is used to check if there is any information for the specified taxon (`final_tsn`); if there is no information related to the specified taxon (`final_tsn`), then an empty data frame is returned. Any query of the ITIS API with a TSN equal to zero will return an error; the return of an empty data frame prevents this error and can be used to check which TSNs were not found in the ITIS database (i.e., all taxonomic columns are filled with `NA`). If there is information related to the specified taxon (`final_tsn`), then `usage()` is used to check if the specified TSN is "accepted" or "valid". If the TSN is not "accepted" or "valid", then `ritis::accepted_names()` is used to updated the TSN that will be used to query the ITIS database (`tsn.accepted`). The __ritis__ function, `hierarchy_full()`, is then used to pull all of the hierarchy information upstream of the specified taxon (i.e. Kingdom to the specified taxons rank) and immediate children of the specified taxon (e.g. if the specified taxon represents Family-level, then the children might represent all Subfamilies below the specified taxon). For the purposes of this document, the immediate children of the specified taxon are not need and are filtered out of the data. The orginal reported TSN (`org_tsn`), the orginal taxonomic name (`org_id`), the accepted TSN (`final_tsn`), and the accepted taxonomic name of the accepted TSN (`final_id`) are extracted as individual columns.
+```{r}
+# tsn.i <- 101296
+# tsn.i <- tsn.vec[2]
+# class(tsn.i)
+hier.df <- parLapply(cl, tsn.vec, function(tsn.i) {
+  # print(tsn.i)
+  tryCatch({
+    
+  if (ncol(ritis::usage(tsn.i)) == 0) return(data.frame(org_tsn = as.integer(tsn.i),
+                                                stringsAsFactors = FALSE))
+  if (!ritis::usage(tsn.i)$taxonUsageRating %in% c("accepted", "valid")) {
+    tsn.accepted <- ritis::accepted_names(as.integer(tsn.i))$acceptedTsn[1] %>% 
+      as.integer()
+  } else {
+    tsn.accepted <- as.integer(tsn.i)
+  }
+    
+    taxa.sub <- taxa.df %>% 
+      filter(tsn == tsn.i) %>% 
+      select(final_id, found, full_hierarchy) %>% 
+      rename(org_id = final_id) %>% 
+      mutate(final_tsn = tsn.accepted) %>% 
+      mutate_if(is.character, list(~tolower(.) %>% stringr::str_replace_all(" ", "_")))
+  
+  full.df <- ritis::hierarchy_full(tsn.accepted) %>% 
+    select(rankname, taxonname, tsn) %>% 
+    slice(1:which(tsn == tsn.accepted)) %>% 
+    mutate(final_tsn = as.integer(tsn.accepted),
+           final_id = slice(., which(tsn == tsn.accepted))$taxonname
+           ) %>% 
+    mutate_if(is.character, list(~tolower(.) %>% stringr::str_replace_all(" ", "_"))) %>% 
+    full_join(taxa.sub, by = "final_tsn")
+  
+  }, error = function(e) return(dplyr::tibble(error = paste0("TSN '", tsn.i, "'", 
+                                      " caused the error: '", e, "'"))))
+  
+}) %>% 
+  bind_rows()
+  
+on.exit(stopCluster(cl))
+```
+
+
+```{r}
+hier.df <- hier.df %>% 
+  select(-tsn) %>%
+  spread(rankname, taxonname) %>% 
+  rename_all(tolower)
+```
+
+A vector of column names is created to sort the columns. Not all of the names in `column.vec` are found in `hier.df` and are filtered out in the last line. This is purposefully written to be more robust; future data acquisitions may contain different taxonomic ranks due to ITIS updates and this script will capture these changes.
+```{r}
+column.vec <- c("org_tsn", "org_id",
+                "final_tsn", "final_id",
+                "kingdom", "subkingdom", "infrakingdom", 
+                "superdivision", "division", "subdivision", "infradivision",
+                "superphylum", "phylum", "subphylum", "infraphylum", 
+                "superclass", "class", "subclass", "infraclass", 
+                "superorder", "order", "suborder", "infraorder", 
+                "superfamily", "family", "subfamily", 
+                "tribe", "subtribe", 
+                "genus", "subgenus", 
+                "species", "subspecies")
+
+column.vec <- column.vec[column.vec %in% names(hier.df)]
+```
+
+The columns are sorted according to `column.vec`.
+```{r}
+hier.df <- hier.df %>% 
+  select(column.vec) 
+```
+
+```{r}
+hier.df <- hier.df %>% 
+  mutate(species = if_else(is.na(species) & stringr::str_detect(org_id, "_"),
+                           org_id,
+                           species))
+```
+
+```{r}
+missing.df <- master.df %>% 
+  filter(!final_id %in% hier.df$org_id)
+```
+
+```{r}
+hier.neostempellina <- hier.df %>% 
+  filter(final_id == "tanytarsini") %>% 
+  mutate(org_id = "neostempellina",
+         final_id = "neostempellina",
+         final_tsn = as.character(NA),
+         genus = "neostempellina")
+
+hier.reissi <- hier.neostempellina %>% 
+  mutate(org_id = "neostempellina_reissi",
+         final_id = "neostempellina_reissi",
+         species = "reissi")
+
+hier.anafroptilum <-  hier.df %>% 
+  filter(final_id == "baetidae") %>% 
+  mutate(org_id = "anafroptilum",
+         final_id = "anafroptilum",
+         final_tsn = as.character(NA),
+         genus = "anafroptilum")
+
+hier.sphaeromais <-  hier.df %>% 
+  filter(final_id == "ceratopogonidae") %>% 
+  mutate(org_id = "sphaeromais",
+         final_id = "sphaeromais",
+         final_tsn = as.character(NA),
+         genus = "sphaeromais")
+
+hier.nymphomyia <-  hier.df %>% 
+  filter(final_id == "nymphomyiidae") %>% 
+  mutate(org_id = "nymphomyia",
+         final_id = "nymphomyia",
+         final_tsn = as.character(NA),
+         genus = "nymphomyia")
+
+```
+
+```{r}
+hier.df <- hier.df %>% 
+  filter(!org_id %in% c("neostempellina_sp.",
+                        "neostempellina_reissi",
+                        "anafroptilum",
+                        "sphaeromais_sp.",
+                        "nymphomyia_sp."
+                        )) %>% 
+  bind_rows(hier.neostempellina,
+            hier.reissi,
+            hier.anafroptilum,
+            hier.sphaeromais,
+            hier.nymphomyia)
+```
+
+```{r}
+data.table::fwrite(hier.df, 
+                   file.path(root.dir, 
+                             "data",
+                             "processed",
+                             "hier_df.csv"))
+```

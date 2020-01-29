@@ -1,0 +1,116 @@
+---
+title: "Untitled"
+author: "Zachary M. Smith"
+date: "November 26, 2018"
+output: html_document
+---
+
+# Acquire ITIS Data
+
+The [Integrated Taxonomic Information System (ITIS) database](https://itis.gov/downloads/index.html) is a useful resource for obtaining taxonomic hierarchy information. The following script uses package __ritis__ to access the ITIS API and download the necessary taxonomic hierarchy information [@ChamberlainritisIntegratedTaxonomic2017]. Querying the API with __ritis__ makes this document more robust and dynamic. Anyone interested party should be able to download this documents __R Markdown__ file from Git Hub and run this script to access the ITIS database. As long as there are no changes to the API, this script can be used to access the ITIS data in subsequent years and will incorporate any subsequent changes to the ITIS database.
+
+## Acquire TSNs
+
+Identify all of the unique taxa present in the historical macroinvertebrate table. Replace all underscores ("_") with single space (" "). This is necessary to match the ITIS syntax required for the search with `ritis::search_scientific()` (used below).
+```{r}
+taxa.vec <- unique(master.df$final_id) %>% 
+  str_replace_all("_", " ")
+```
+
+There are > 1,000 unique taxa in the historical data table. To reduce the computation time required to acquire ITIS TSNs for each of these taxa, the processes will be parallelized. This code chunk establishes the clusters that will be used for parallelization during subsequent code chunks.
+```{r, results = 'hide'}
+library(parallel)
+n.cores <- detectCores() - 1
+cl <- makeCluster(n.cores)
+clusterExport(cl = cl,
+              varlist = c("taxa.vec"),
+              envir = environment())
+
+invisible(clusterEvalQ(cl, c(library(tidyverse))))
+```
+
+This following code loops through each taxon found in `taxa.vec` and attempts to match the name in the ITIS database using `ritis::search_scientific()`.
+
+* If a match is found in ITIS
+    + the taxon name from ITIS is added to the dataframe (`combinedName`)
+    + the taxon name from the original NYSDEC data (`final_id`) is added to the dataframe (`final_id`)
+    + the column `found` is added and set to `TRUE` to indicate that the taxon was found in the ITIS database
+    + the column `full_hierarchy` is added and set to `TRUE` to indicate that the full taxonomic hierarchy could be acquired from the ITIS database
+* If no match is found in ITIS but the given taxon is represented as "genus species"
+    + just the genus is extracted and an attempt is made to find a match in the ITIS database
+    + if a match is found
+        + the taxon name is added to the dataframe (`combinedName`)
+        + the taxon name from the original NYSDEC data (`final_id`) is added to the dataframe (`final_id`)
+        + the column `found` is added and set to `TRUE` to indicate that the taxon was found in the ITIS database
+        + the column `full_hierarchy` is added and set to `FALSE` to indicate that the full taxonomic hierarchy could __NOT__ be acquired from the ITIS database
+* If no match can be found
+    + the taxon name is added to the dataframe (`combinedName`)
+    + the taxon name from the original NYSDEC data (`final_id`) is added to the dataframe (`final_id`)
+    + the column `found` is added and set to `FALSE` to indicate that the taxon was __NOT__ found in the ITIS database
+    + the column `full_hierarchy` is added and set to `FALSE` to indicate that the full taxonomic hierarchy could __NOT__ be acquired from the ITIS database
+
+```{r}
+# taxa.i <- taxa.missing[1]
+taxa.df <- parLapply(cl, taxa.vec, function(taxa.i) {
+  tryCatch({
+  temp.df <- ritis::search_scientific(taxa.i) 
+  
+  if (nrow(temp.df) > 0) {
+    temp.df <- temp.df %>% 
+      mutate(combinedName = tolower(combinedName),
+             final_id = taxa.i,
+             found = TRUE,
+             full_hierarchy = TRUE) %>% 
+      filter(combinedName == taxa.i,
+             kingdom == "Animalia") %>% 
+      slice(1)
+  } else if (nrow(temp.df) == 0 & length(str_split(taxa.i, " ", simplify = TRUE)) > 1) {
+    temp.df2 <- str_split(taxa.i, " ", simplify = TRUE)[1] %>% 
+      ritis::search_scientific()
+    
+    if (nrow(temp.df2) > 0) {
+    temp.df2 %>% 
+      mutate(combinedName = tolower(combinedName),
+             final_id = taxa.i,
+             found = TRUE,
+             full_hierarchy = FALSE) %>% 
+      filter(combinedName == str_split(taxa.i, " ", simplify = TRUE)[1],
+             kingdom == "Animalia") %>% 
+        slice(1)
+    } else {
+    temp.df <- tibble(combinedName = taxa.i,
+           final_id = taxa.i,
+           found = FALSE,
+           full_hierarchy = FALSE)
+  }
+  } else {
+    temp.df <- tibble(combinedName = taxa.i,
+           final_id = taxa.i,
+           found = FALSE,
+           full_hierarchy = FALSE)
+  }
+  
+}, error = function(e) return(tibble(error = paste0("taxon '", taxa.i, "'", 
+                                      " caused the error: '", e, "'"))))
+}) %>% 
+  bind_rows() %>% 
+  select(found, everything()) %>% 
+  mutate(final_id = tolower(final_id),
+         final_id = str_replace(final_id, " ", "_"))
+
+on.exit(stopCluster(cl))
+```
+
+```{r}
+taxa.sub <- str_replace(taxa.vec, " ", "_")
+taxa.missing <- taxa.sub[!taxa.sub %in% taxa.df$final_id]
+```
+
+```{r}
+data.table::fwrite(taxa.df, 
+                   file.path(root.dir, 
+                             "data",
+                             "processed",
+                             "tsn_df.csv"))
+```
+

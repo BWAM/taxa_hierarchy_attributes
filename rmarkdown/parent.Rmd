@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+author: "Zachary M. Smith"
+date: "April 9, 2019"
+output: html_document
+---
+
+```{r, child="sections/prepare_r.Rmd"}
+
+```
+
+```{r, child="sections/preprocessing.Rmd"}
+
+```
+
+```{r, child="sections/acquire_itis_tsn.Rmd"}
+
+```
+
+```{r, child="sections/acquire_itis_hierarchy.Rmd"}
+
+```
+
+```{r, child="sections/finalize.Rmd"}
+
+```

@@ -1,0 +1,321 @@
+---
+title: "Updates"
+author: "Zachary M. Smith"
+date: "December 4, 2018"
+output: html_document
+---
+
+# Prepare R
+
+Load the necessary packages.
+```{r}
+library(tidyverse)
+library(ritis)
+```
+
+Find the R-project root directory, which will be used to establish file paths in scripts below.
+```{r}
+root.dir <- rprojroot::find_root("taxa_hierarchy_attributes.Rproj")
+```
+
+Load the historical macroinvertebrate taxonomic hierarchy and attributes.
+```{r}
+org.df <- data.table::fread(file.path(root.dir,
+                                      "data",
+                                      "processed",
+                                      "macro_taxa_hier_attributes.csv"))
+```
+
+```{r}
+new.df <- data.table::fread(file.path(root.dir,
+                                      "data",
+                                      "updates",
+                                      "lgss_missing_hier.csv"))
+```
+
+
+The following character strings will be eliminated from `macro_genspecies` column because they will not match appropriately with scientific names in the ITIS database.
+```{r}
+replace.vec <- c("_1",
+                 "_2",
+                 "_3",
+                 "_4",
+                 "_5",
+                 "\\?",
+                 "_sp\\,",
+                 "_sp\\.",
+                 "_spp\\.",
+                 "_gr\\.",
+                 "_nr\\.",
+                 "_cf\\.",
+                 "_\\(ps.\\)",
+                 '_""ozarks""', 
+                 '_""santa_fe""',
+                 "_\\(iron\\)",
+                 "_\\(nanocladius\\)",
+                 "_\\(plecopt.\\)",
+                 "_\\(plecopteracoluthus\\)",
+                 "_\\(nixe\\)",
+                 "_\\(eudactylocladius\\)",
+                 "_\\(euorthoclad.\\)",
+                 "_\\(symposiocladius\\)",
+                 "_\\(tripodura\\)",
+                 "_\\(holotanypus\\)",
+                 "_\\(allopsectrocladius\\)",
+                 "_\\(monosectrocladius\\)",
+                 "undetermined_",
+                 "undet._"
+                 )
+```
+
+
+```{r}
+master.df <- new.df %>% 
+  rename(org_id = final_id) %>% 
+  mutate(final_id = str_replace_all(org_id, paste(replace.vec, collapse = "|"), ""),
+         final_id = str_replace_all(final_id, "tanytarsus_d", "tanytarsus"),
+         final_id = str_replace_all(final_id, "tanytarsus_p", "tanytarsus"),
+         final_id = str_replace(final_id, "ceratapsyche_morosa", "ceratopsyche_morosa"),
+         final_id = str_replace(final_id, "hydroporous", "hydroporus"),
+         final_id = str_replace(final_id, "crysomelidae", "chrysomelidae")
+         )
+
+
+```
+
+# Acquire ITIS Data
+
+The [Integrated Taxonomic Information System (ITIS) database](https://itis.gov/downloads/index.html) is a useful resource for obtaining taxonomic hierarchy information. The following script uses package __ritis__ to access the ITIS API and download the necessary taxonomic hierarchy information [@ChamberlainritisIntegratedTaxonomic2017]. Querying the API with __ritis__ makes this document more robust and dynamic. Anyone interested party should be able to download this documents __R Markdown__ file from Git Hub and run this script to access the ITIS database. As long as there are no changes to the API, this script can be used to access the ITIS data in subsequent years and will incorporate any subsequent changes to the ITIS database.
+
+## Acquire TSNs
+
+Identify all of the unique taxa present in the historical macroinvertebrate table. Replace all underscores ("_") with single space (" "). This is necessary to match the ITIS syntax required for the search with `ritis::search_scientific()` (used below).
+```{r}
+taxa.vec <- unique(master.df$final_id) %>% 
+  str_replace_all("_", " ")
+```
+
+There are > 1,000 unique taxa in the historical data table. To reduce the computation time required to acquire ITIS TSNs for each of these taxa, the processes will be parallelized. This code chunk establishes the clusters that will be used for parallelization during subsequent code chunks.
+```{r, results = 'hide'}
+library(parallel)
+n.cores <- detectCores() - 1
+cl <- makeCluster(n.cores)
+clusterExport(cl = cl,
+              varlist = c("taxa.vec"),
+              envir = environment())
+
+invisible(clusterEvalQ(cl, c(library(tidyverse))))
+```
+
+This following code loops through each taxon found in `taxa.vec` and attempts to match the name in the ITIS database using `ritis::search_scientific()`.
+
+* If a match is found in ITIS
+    + the taxon name from ITIS is added to the dataframe (`combinedName`)
+    + the taxon name from the original NYSDEC data (`final_id`) is added to the dataframe (`final_id`)
+    + the column `found` is added and set to `TRUE` to indicate that the taxon was found in the ITIS database
+    + the column `full_hierarchy` is added and set to `TRUE` to indicate that the full taxonomic hierarchy could be acquired from the ITIS database
+* If no match is found in ITIS but the given taxon is represented as "genus species"
+    + just the genus is extracted and an attempt is made to find a match in the ITIS database
+    + if a match is found
+        + the taxon name is added to the dataframe (`combinedName`)
+        + the taxon name from the original NYSDEC data (`final_id`) is added to the dataframe (`final_id`)
+        + the column `found` is added and set to `TRUE` to indicate that the taxon was found in the ITIS database
+        + the column `full_hierarchy` is added and set to `FALSE` to indicate that the full taxonomic hierarchy could __NOT__ be acquired from the ITIS database
+* If no match can be found
+    + the taxon name is added to the dataframe (`combinedName`)
+    + the taxon name from the original NYSDEC data (`final_id`) is added to the dataframe (`final_id`)
+    + the column `found` is added and set to `FALSE` to indicate that the taxon was __NOT__ found in the ITIS database
+    + the column `full_hierarchy` is added and set to `FALSE` to indicate that the full taxonomic hierarchy could __NOT__ be acquired from the ITIS database
+
+```{r}
+# taxa.i <- taxa.missing[1]
+taxa.df <- parLapply(cl, taxa.vec, function(taxa.i) {
+  tryCatch({
+  temp.df <- ritis::search_scientific(taxa.i) 
+  
+  if (nrow(temp.df) > 0) {
+    temp.df <- temp.df %>% 
+      mutate(combinedName = tolower(combinedName),
+             final_id = taxa.i,
+             found = TRUE,
+             full_hierarchy = TRUE) %>% 
+      filter(combinedName == taxa.i,
+             kingdom == "Animalia") %>% 
+      slice(1)
+  } else if (nrow(temp.df) == 0 & length(str_split(taxa.i, " ", simplify = TRUE)) > 1) {
+    temp.df2 <- str_split(taxa.i, " ", simplify = TRUE)[1] %>% 
+      ritis::search_scientific()
+    
+    if (nrow(temp.df2) > 0) {
+    temp.df2 %>% 
+      mutate(combinedName = tolower(combinedName),
+             final_id = taxa.i,
+             found = TRUE,
+             full_hierarchy = FALSE) %>% 
+      filter(combinedName == str_split(taxa.i, " ", simplify = TRUE)[1],
+             kingdom == "Animalia") %>% 
+        slice(1)
+    } else {
+    temp.df <- tibble(combinedName = taxa.i,
+           final_id = taxa.i,
+           found = FALSE,
+           full_hierarchy = FALSE)
+  }
+  } else {
+    temp.df <- tibble(combinedName = taxa.i,
+           final_id = taxa.i,
+           found = FALSE,
+           full_hierarchy = FALSE)
+  }
+  
+  
+  
+  
+}, error = function(e) return(tibble(error = paste0("taxon '", taxa.i, "'", 
+                                      " caused the error: '", e, "'"))))
+}) %>% 
+  bind_rows() %>% 
+  select(found, everything()) %>% 
+  mutate(final_id = tolower(final_id),
+         final_id = str_replace(final_id, " ", "_"))
+
+on.exit(stopCluster(cl))
+```
+
+```{r}
+missing.df <- taxa.df %>% 
+  filter(is.na(kingdom))
+```
+
+## Acquire Taxonomic Hierarchy
+
+Create a vector of all of the unique TSNs acquired above.
+```{r}
+tsn.vec <- unique(taxa.df$tsn)
+tsn.vec <- tsn.vec[!is.na(tsn.vec)]
+tsn.df <- dplyr::tibble(tsn = tsn.vec)
+```
+
+There are > 1,000 unique taxa in the historical data table. To reduce the computation time required to acquire ITIS taxonomic hierarchy for each of these taxa, the processes will be parallelized. This code chunk establishes the clusters that will be used for parallelization during subsequent code chunks.
+```{r, results = 'hide'}
+library(parallel)
+n.cores <- detectCores() - 1
+cl <- makeCluster(n.cores)
+clusterExport(cl = cl,
+              varlist = c("tsn.vec", "taxa.df"),
+              envir = environment())
+
+invisible(clusterEvalQ(cl, c(library(tidyverse))))
+```
+
+The TSNs acquired above are used to query the ITIS database and extract all of the taxonomic information related to each reported taxon. The __ritis__ function, `usage()`, is used to check if there is any information for the specified taxon (`final_tsn`); if there is no information related to the specified taxon (`final_tsn`), then an empty data frame is returned. Any query of the ITIS API with a TSN equal to zero will return an error; the return of an empty data frame prevents this error and can be used to check which TSNs were not found in the ITIS database (i.e., all taxonomic columns are filled with `NA`). If there is information related to the specified taxon (`final_tsn`), then `usage()` is used to check if the specified TSN is "accepted" or "valid". If the TSN is not "accepted" or "valid", then `ritis::accepted_names()` is used to updated the TSN that will be used to query the ITIS database (`tsn.accepted`). The __ritis__ function, `hierarchy_full()`, is then used to pull all of the hierarchy information upstream of the specified taxon (i.e. Kingdom to the specified taxons rank) and immediate children of the specified taxon (e.g. if the specified taxon represents Family-level, then the children might represent all Subfamilies below the specified taxon). For the purposes of this document, the immediate children of the specified taxon are not need and are filtered out of the data. The orginal reported TSN (`org_tsn`), the orginal taxonomic name (`org_id`), the accepted TSN (`final_tsn`), and the accepted taxonomic name of the accepted TSN (`final_id`) are extracted as individual columns.
+```{r}
+tsn.i <- 101296
+tsn.i <- tsn.vec[2]
+class(tsn.i)
+hier.df <- parLapply(cl, tsn.vec, function(tsn.i) {
+  # print(tsn.i)
+  tryCatch({
+    
+  if (ncol(ritis::usage(tsn.i)) == 0) return(data.frame(org_tsn = as.integer(tsn.i),
+                                                stringsAsFactors = FALSE))
+  if (!ritis::usage(tsn.i)$taxonUsageRating %in% c("accepted", "valid")) {
+    tsn.accepted <- ritis::accepted_names(as.integer(tsn.i))$acceptedTsn[1] %>% 
+      as.integer()
+  } else {
+    tsn.accepted <- as.integer(tsn.i)
+  }
+    
+    taxa.sub <- taxa.df %>% 
+      filter(tsn == tsn.i) %>% 
+      select(final_id, found, full_hierarchy) %>% 
+      rename(org_id = final_id) %>% 
+      mutate(final_tsn = tsn.accepted) %>% 
+      mutate_if(is.character, funs(tolower(.) %>% stringr::str_replace_all(" ", "_")))
+  
+  full.df <- ritis::hierarchy_full(tsn.accepted) %>% 
+    select(rankname, taxonname, tsn) %>% 
+    slice(1:which(tsn == tsn.accepted)) %>% 
+    mutate(final_tsn = as.integer(tsn.accepted),
+           final_id = slice(., which(tsn == tsn.accepted))$taxonname
+           ) %>% 
+    mutate_if(is.character, funs(tolower(.) %>% stringr::str_replace_all(" ", "_"))) %>% 
+    full_join(taxa.sub, by = "final_tsn")
+  
+  }, error = function(e) return(dplyr::tibble(error = paste0("TSN '", tsn.i, "'", 
+                                      " caused the error: '", e, "'"))))
+  
+}) %>% 
+  bind_rows()
+  
+on.exit(stopCluster(cl))
+```
+
+
+```{r}
+hier.df <- hier.df %>% 
+  select(-tsn) %>%
+  spread(rankname, taxonname) %>% 
+  rename_all(tolower)
+```
+
+A vector of column names is created to sort the columns. Not all of the names in `column.vec` are found in `hier.df` and are filtered out in the last line. This is purposefully written to be more robust; future data acquisitions may contain different taxonomic ranks due to ITIS updates and this script will capture these changes.
+```{r}
+column.vec <- c("org_tsn", "org_id",
+                "final_tsn", "final_id",
+                "kingdom", "subkingdom", "infrakingdom", 
+                "superdivision", "division", "subdivision", "infradivision",
+                "superphylum", "phylum", "subphylum", "infraphylum", 
+                "superclass", "class", "subclass", "infraclass", 
+                "superorder", "order", "suborder", "infraorder", 
+                "superfamily", "family", "subfamily", 
+                "tribe", "subtribe", 
+                "genus", "subgenus", 
+                "species", "subspecies")
+
+column.vec <- column.vec[column.vec %in% names(hier.df)]
+```
+
+The columns are sorted according to `column.vec`.
+```{r}
+hier.df <- hier.df %>% 
+  select(column.vec) 
+```
+
+```{r}
+hier.df <- hier.df %>% 
+  mutate(species = if_else(is.na(species) & stringr::str_detect(org_id, "_"),
+                           org_id,
+                           species))
+```
+
+```{r}
+missing.df <- master.df %>% 
+  filter(!final_id %in% hier.df$org_id)
+```
+
+```{r}
+final.df <- master.df %>% 
+  rename(macro_genspecies = org_id,
+         org_id = final_id) %>% 
+  full_join(hier.df, by = "org_id")
+```
+
+```{r}
+issues.df <- final.df %>% 
+  filter(is.na(kingdom))
+```
+
+```{r}
+final.df <- bind_rows(org.df, final.df)
+```
+
+```{r}
+data.table::fwrite(final.df, 
+                   file.path(root.dir, 
+                             "data",
+                             "updates",
+                             paste0("macro_taxa_hier_attributes_",
+                                   Sys.Date(),
+                                   ".csv")))
+```
